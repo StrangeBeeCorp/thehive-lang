@@ -1,0 +1,30 @@
+{
+    "responder": {
+        "no-reports": "",
+        "drawer": {
+            "title": {
+                "case": {
+                    "single": "",
+                    "multiple": ""
+                },
+                "case_task": {
+                    "single": "",
+                    "multiple": ""
+                },
+                "case_artifact": {
+                    "single": "",
+                    "multiple": ""
+                },
+                "alert": {
+                    "single": ""
+                },
+                "case_task_log": {
+                    "single": ""
+                }
+            },
+            "search-field": "",
+            "launch": "",
+            "confirm": ""
+        }
+    }
+}
