@@ -1,0 +1,178 @@
+{
+    "observable": {
+        "none": "",
+        "preview": "",
+        "details": {
+            "title": {
+                "data": "",
+                "type": ""
+            },
+            "pin": "",
+            "tlp": "",
+            "type": "",
+            "date": "",
+            "isIoc": "",
+            "sighted": "",
+            "ignore-similarity": "",
+            "tags": "",
+            "description": "",
+            "analysis": "",
+            "sharedWith": ""
+        },
+        "links": {
+            "title": "",
+            "noLinks": ""
+        },
+        "list": {
+            "header": {
+                "selected": ""
+            },
+            "table": {
+                "columns": {
+                    "type": "",
+                    "value": "",
+                    "date-added": ""
+                },
+                "value": {
+                    "no-reports": ""
+                }
+            },
+            "sider": {
+                "add-task": "",
+                "datatypes": "",
+                "actions": {
+                    "actions": "",
+                    "delete": {
+                        "single": "",
+                        "severals": ""
+                    }
+                },
+                "last-analysis": "",
+                "stats": ""
+            }
+        },
+        "quickview": {
+            "goToDetails": "",
+            "preview": "",
+            "data": {
+                "description": "",
+                "report": "",
+                "noReport": "",
+                "date": "",
+                "isIoc": "",
+                "sighted": "",
+                "notStarted": "",
+                "status": "",
+                "sharedWith": "",
+                "analysis": {
+                    "title": ""
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "type": {
+                    "required": "",
+                    "placeholder": "",
+                    "label": ""
+                },
+                "attachment": {
+                    "required": "",
+                    "placeholder": "",
+                    "label": "",
+                    "is-zip": {
+                        "label": ""
+                    },
+                    "zip-password": {
+                        "label": "",
+                        "placeholder": ""
+                    }
+                },
+                "value": {
+                    "required": "",
+                    "conditionnal_required": "",
+                    "placeholder": "",
+                    "label": "",
+                    "multiline": {
+                        "unique": {
+                            "label": "",
+                            "observable": ""
+                        },
+                        "multi": ""
+                    }
+                },
+                "tlp": {
+                    "label": ""
+                },
+                "ioc": {
+                    "label": ""
+                },
+                "sighted": {
+                    "label": ""
+                },
+                "similarity": {
+                    "label": ""
+                },
+                "tags": {
+                    "label": ""
+                },
+                "description": {
+                    "required": "",
+                    "placeholder": "",
+                    "label": ""
+                },
+                "submit": ""
+            }
+        },
+        "sider": {
+            "add": "",
+            "links": "",
+            "sharing": ""
+        },
+        "actions": {
+            "delete": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "responders": {
+                "label": ""
+            },
+            "export": {
+                "label": ""
+            },
+            "edit": {
+                "label": ""
+            }
+        },
+        "stats": {
+            "type": "",
+            "ioc": "",
+            "tags": ""
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "add-tags": {
+                    "label": ""
+                },
+                "remove-tags": {
+                    "label": ""
+                }
+            }
+        },
+        "export": {
+            "title": "",
+            "clipboard": "",
+            "save-file": "",
+            "file-format": "",
+            "protect": "",
+            "preview": ""
+        }
+    }
+}
