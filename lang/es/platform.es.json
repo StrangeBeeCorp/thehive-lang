@@ -1,0 +1,45 @@
+{
+    "platform": {
+        "title": {
+            "label": "",
+            "export": ""
+        },
+        "schema": {
+            "title": "",
+            "columns": {
+                "status": "",
+                "schema": "",
+                "version": ""
+            }
+        },
+        "index": {
+            "title": "",
+            "reload": "",
+            "columns": {
+                "status": "",
+                "index": "",
+                "entities": ""
+            },
+            "actions": {
+                "reindex": {
+                    "label": "",
+                    "confirm": "",
+                    "success": ""
+                }
+            }
+        },
+        "check": {
+            "title": "",
+            "columns": {
+                "control": ""
+            },
+            "actions": {
+                "trigger": {
+                    "label": "",
+                    "confirm": "",
+                    "success": ""
+                }
+            }
+        }
+    }
+}
