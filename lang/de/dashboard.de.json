@@ -1,0 +1,112 @@
+{
+    "dashboard": {
+        "download": {
+            "image": "",
+            "csv": "",
+            "text": ""
+        },
+        "title": "",
+        "filter-placeholder": "",
+        "create": {
+            "title": "",
+            "button": "",
+            "confirm": "",
+            "form": {
+                "title": "",
+                "title-placeholder": "",
+                "description": "",
+                "description-placeholder": "",
+                "visibility": "",
+                "required": "",
+                "private": "",
+                "shared": ""
+            }
+        },
+        "duplicate": {
+            "title": "",
+            "prefix": "",
+            "confirm": ""
+        },
+        "edit": {
+            "title": "",
+            "confirm": ""
+        },
+        "import": {
+            "title": "",
+            "button": "",
+            "confirm": "",
+            "dropZone": "",
+            "fileError": "",
+            "stepper": {
+                "file": "",
+                "data": ""
+            }
+        },
+        "item": {
+            "edit": "",
+            "duplicate": "",
+            "export": "",
+            "delete": "",
+            "delete-message": ""
+        },
+        "widget": {
+            "counter": {
+                "title": "",
+                "title-edit": ""
+            },
+            "donut": {
+                "title": "",
+                "title-edit": ""
+            },
+            "bar": {
+                "title": "",
+                "title-edit": ""
+            },
+            "line": {
+                "title": "",
+                "title-edit": ""
+            },
+            "multiline": {
+                "title": "",
+                "title-edit": ""
+            },
+            "text": {
+                "title": "",
+                "title-edit": ""
+            },
+            "radar": {
+                "title": "",
+                "title-edit": ""
+            },
+            "drawer": {
+                "confirm-create": "",
+                "confirm-edit": ""
+            },
+            "period": {
+                "apply": ""
+            }
+        },
+        "drop": {
+            "row": "",
+            "widget": ""
+        },
+        "form-divider": {
+            "series": "",
+            "filters": "",
+            "basics": ""
+        },
+        "serie": {
+            "add": "",
+            "no-series": ""
+        },
+        "filter": {
+            "add": "",
+            "no-filters": "",
+            "no-entity": ""
+        },
+        "settings": {
+            "refresh": "",
+            "period": ""
+        }
+    }
+}
