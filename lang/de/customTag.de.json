@@ -1,0 +1,38 @@
+{
+    "customTags": {
+        "none": "",
+        "list": {
+            "columns": {
+                "name": "",
+                "colour": "",
+                "cases": "",
+                "alerts": "",
+                "observables": "",
+                "templates": "",
+                "by": "",
+                "dates": ""
+            },
+            "actions": {
+                "delete": {
+                    "label": "",
+                    "success": ""
+                }
+            }
+        },
+        "add": {
+            "label": "",
+            "title": "",
+            "footer": "",
+            "tags": {
+                "title": "",
+                "clear": ""
+            },
+            "taxonomy": {
+                "choose-taxonomy": "",
+                "choose-tags": "",
+                "another": "",
+                "filter": ""
+            }
+        }
+    }
+}
