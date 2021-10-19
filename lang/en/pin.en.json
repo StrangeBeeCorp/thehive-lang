@@ -1,0 +1,9 @@
+{
+    "pin": {
+        "shortcut": {
+            "info": "You can pin {limit} item(s)",
+            "limit": "Pinned item limit reached",
+            "remove-all": "clear all pins"
+        }
+    }
+}

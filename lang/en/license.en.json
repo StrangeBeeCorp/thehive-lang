@@ -1,0 +1,29 @@
+{
+    "license": {
+        "reminder": {
+            "title": "Warning: your license expires soon!",
+            "description": "Your license will expires"
+        },
+        "details": {
+            "title": "License Management",
+            "fallback": "There is a problem with your license. Until you fix this problem, you will have access to this plan:",
+            "update": "Update license",
+            "plan": "Plan",
+            "expiration": "Expiration date",
+            "user": "User"
+        },
+        "set": {
+            "drawer": {
+                "title": "Set a license key"
+            },
+            "form": {
+                "license": {
+                    "label": "License",
+                    "required": "Please enter a license!",
+                    "placeholder": "Enter a license..."
+                },
+                "submit": "Confirm the license key"
+            }
+        }
+    }
+}

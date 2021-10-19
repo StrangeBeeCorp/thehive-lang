@@ -1,0 +1,24 @@
+{
+    "smtp": {
+        "settings": "Settings",
+        "connexion": "Connexion",
+        "fields": {
+            "security": "Security",
+            "host": "Host",
+            "none": "none",
+            "ssl": "SSL",
+            "starttls": "STARTTLS",
+            "tlsRequired": "TLS Required",
+            "port": "Port",
+            "user": "User",
+            "password": "Password"
+        },
+        "required": {
+            "host": "The host field is required",
+            "port": "The port field is required"
+        },
+        "message": {
+            "success": "SMTP configuration successfully saved!"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "mainLayout": {
+        "userMenu": {
+            "cases": "Liste des cases",
+            "dashboards": "Dashboards",
+            "tasks": "Mes tâches",
+            "waitingTasks": "Tâches en attente",
+            "alerts": "Alertes",
+            "search": "Recherche",
+            "configuration": "Configuration",
+            "logout": "Déconnexion"
+        },
+        "adminMenu": {
+            "organisations": "Organisations",
+            "global-users": "Utilisateurs",
+            "profiles": "Profils",
+            "customfields": "Champs personnalisés",
+            "attackPatterns": "Modèles d'attaque",
+            "observabletypes": "Types d'observable",
+            "analyzerTemplates": "Modèles d'analyseurs",
+            "taxonomies": "Taxonomies",
+            "platform": "Statut de la plateforme",
+            "alert-status": "Statut d'alerte",
+            "license": "Licence",
+            "branding": "Branding",
+            "status": "Status",
+            "cortex": "Cortex",
+            "misp": "Misp",
+            "authentication": "Authentication",
+            "mailer": "SMTP"
+        },
+        "liveFeed": {
+            "title": "Live feed"
+        },
+        "organisationSwitcher": {
+            "title": "Choisir une organisation",
+            "back": "Retour"
+        },
+        "settings": {
+            "account": "Paramètres",
+            "about": "A propos"
+        },
+        "header": {
+            "search": "Rechercher",
+            "back": "Page précédente"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "dashboard": {
+        "download": {
+            "image": "PNG",
+            "csv": "CSV",
+            "text": "Text"
+        },
+        "title": "My Dashboards",
+        "filter-placeholder": "Filter dashboards",
+        "create": {
+            "title": "Create a new dashboard",
+            "button": "Create New dashboard",
+            "confirm": "Create Dashboard",
+            "form": {
+                "title": "Title",
+                "title-placeholder": "Enter a title...",
+                "description": "Description",
+                "description-placeholder": "Enter a description",
+                "visibility": "Visibility",
+                "required": "Required",
+                "private": "Private",
+                "shared": "Shared"
+            }
+        },
+        "duplicate": {
+            "title": "Duplicate a dashboard",
+            "prefix": "Copy of",
+            "confirm": "Duplicate Dashboard"
+        },
+        "edit": {
+            "title": "Edit a dashboard",
+            "confirm": "Edit Dashboard"
+        },
+        "import": {
+            "title": "Import a dashboard",
+            "button": "Import Dashboard",
+            "confirm": "Import Dashboard",
+            "dropZone": "Drag'n'drop a file",
+            "fileError": "The file selected is not a valid dashboard",
+            "stepper": {
+                "file": "Select File",
+                "data": "Set Data"
+            }
+        },
+        "item": {
+            "edit": "Edit",
+            "duplicate": "Duplicate",
+            "export": "Export",
+            "delete": "Delete",
+            "delete-message": "Dashboard will be deleted. Are you sure?"
+        },
+        "widget": {
+            "counter": {
+                "title": "Add Counter",
+                "title-edit": "Edit Counter"
+            },
+            "donut": {
+                "title": "Add Donut",
+                "title-edit": "Edit Donut"
+            },
+            "bar": {
+                "title": "Add Bar",
+                "title-edit": "Edit Bar"
+            },
+            "line": {
+                "title": "Add Line",
+                "title-edit": "Edit Line"
+            },
+            "multiline": {
+                "title": "Add MultiLine",
+                "title-edit": "Edit MultiLine"
+            },
+            "text": {
+                "title": "Add Text",
+                "title-edit": "Edit Text"
+            },
+            "radar": {
+                "title": "Add Radar",
+                "title-edit": "Edit Radar"
+            },
+            "drawer": {
+                "confirm-create": "Confirm widget creation",
+                "confirm-edit": "Confirm widget edition"
+            },
+            "period": {
+                "apply": "Apply"
+            }
+        },
+        "drop": {
+            "row": "Drop row here",
+            "widget": "Drop widget here"
+        },
+        "form-divider": {
+            "series": "Series",
+            "filters": "Filters",
+            "basics": "Basics"
+        },
+        "serie": {
+            "add": "Add serie",
+            "no-series": "No series defined"
+        },
+        "filter": {
+            "add": "Add filter",
+            "no-filters": "No filters defined",
+            "no-entity": "Select an entity before manage filters"
+        },
+        "settings": {
+            "refresh": "Refresh",
+            "period": "Period"
+        }
+    }
+}

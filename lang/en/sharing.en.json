@@ -1,0 +1,58 @@
+{
+    "sharing": {
+        "title": "Shares",
+        "add-share": "Share case",
+        "no-shares": "No shares yet!",
+        "table": {
+            "organisation": "Organisation",
+            "profile": "Profile",
+            "shared-at": "Shared at",
+            "action": {
+                "delete": "Are you sure you want to unshare with this organisation?"
+            }
+        },
+        "add": "Add share",
+        "owner": "Owner of the share",
+        "delete": {
+            "confirm": {
+                "case": "Are you sure you want to unshare this case with this organisation?",
+                "observable": "Are you sure you want to unshare this observable with this organisation?",
+                "task": "Are you sure you want to unshare this task with this organisation?"
+            },
+            "label": "Unshare"
+        },
+        "create": {
+            "title": {
+                "case": "Share the case",
+                "observable": "Share the observable",
+                "task": "Share the task"
+            },
+            "button": {
+                "case": "Confirm case sharing",
+                "observable": "Confirm observable sharing",
+                "task": "Confirm task sharing"
+            }
+        },
+        "form": {
+            "required": "Required",
+            "organisation": {
+                "label": "Organisation",
+                "placeholder": "Select your organisation"
+            },
+            "profile": {
+                "label": "Profile",
+                "placeholder": "Select a profile"
+            },
+            "value": {
+                "all": "All",
+                "none": "None"
+            },
+            "tasks": "Tasks",
+            "observables": "Observables"
+        },
+        "drawer": {
+            "list": "Sharing list",
+            "create": "New share"
+        }
+    }
+}

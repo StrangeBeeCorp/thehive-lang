@@ -1,0 +1,42 @@
+{
+    "settings": {
+        "form": {
+            "hideEmptyCaseButton": {
+                "label": "Hide Empty Case button",
+                "description": "Check this to disallow creating empty cases"
+            },
+            "disallowMergeAlertInResolvedSimilarCases": {
+                "label": "Merge alerts into closed cases",
+                "description": "Check this to disallow merging alerts into closed cases"
+            },
+            "defaultAlertSimilarCaseFilter": {
+                "label": "Select the default filter of alert case similarity panel",
+                "options": {
+                    "open-cases": "Open Cases",
+                    "open-cases-last-7days": "Open Cases in the last 7 days",
+                    "open-cases-last-30days": "Open Cases in the last 30 days",
+                    "open-cases-last-3months": "Open Cases in the last 3 months",
+                    "open-cases-last-year": "Open Cases in the last year",
+                    "resolved-cases": "Resolved cases",
+                    "none": "No filter"
+                }
+            },
+            "defaultDateFormat": {
+                "label": "Define the default date format used to display dates",
+                "descriptions": {
+                    "currentPreview": "Result preview:",
+                    "moreSample": "More examples:",
+                    "display": "results in",
+                    "more": "For more details about the format <a href=\"https://momentjs.com/docs/#/displaying/format/\" target=\"_blank\" rel=\"noreferrer\">click here</a>"
+                },
+                "required": "Please enter a valid format date!"
+            }
+        },
+        "actions": {
+            "update": {
+                "success": "Settings updated",
+                "error": "An unexpected error occurred while updating settings"
+            }
+        }
+    }
+}

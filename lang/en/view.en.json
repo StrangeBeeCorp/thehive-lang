@@ -1,0 +1,9 @@
+{
+    "view": {
+        "add": "Add view",
+        "delete": "Are you sure you want to delete this view?",
+        "title-new": "Creating a new view",
+        "required-name": "Please enter a valid name!",
+        "drawer-title": "Manage views"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "account": {
+        "title": "Account Details",
+        "avatar": "Avatar",
+        "avatarErrorFormat": "You can only upload JPG/PNG file!",
+        "avatarErrorSize": "The size is limited to 500 KB",
+        "login": "Login",
+        "fullname": "Full Name",
+        "profile": "Profile",
+        "permissions": "Permissions List",
+        "password": "New Password",
+        "passwordCurrent": "Current Password",
+        "passwordConfirm": "Confirm new password",
+        "passwordError": "Password not valid",
+        "save": "Save",
+        "reset": "Reset",
+        "clear": "Clear",
+        "clearConfirm": "Would you like to delete the image?",
+        "success": "User has been correctly updated",
+        "apiKey": "API Key",
+        "panel1": "Edit account infos",
+        "panel2": "Edit password",
+        "panel3": "Manage API Key",
+        "required": "Required",
+        "branding": {
+            "panel": "Branding",
+            "form": {
+                "title": { "label": "Title", "required": "Title must be required" },
+                "loginLogo": "Logo login area",
+                "menuLogo": "Logo of the menu",
+                "favicon": "Favicon"
+            }
+        },
+        "mfa": {
+            "panel": "Manage MFA",
+            "warning": "You are going to enable Multi-Factor Authentication. Use the QRCode or the Secret to generate a MFA code and submit it.",
+            "info-title": "Need a two-step authenticator app? Download one of the following:",
+            "ios": "IOS devices",
+            "android": "Android devices",
+            "windows": "Windows devices",
+            "secret": "Copy secret",
+            "code": {
+                "label": "Code",
+                "placeholder": "MFA Code"
+            },
+            "disable": {
+                "warning": "You have enabled Multi-Factor Authentication, do you want to disable it?",
+                "label": "Disable MFA"
+            }
+        }
+    }
+}

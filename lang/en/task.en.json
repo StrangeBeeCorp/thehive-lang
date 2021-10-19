@@ -1,0 +1,153 @@
+{
+    "task": {
+        "none": "No tasks have been found.",
+        "preview": "Task preview",
+        "actionRequired": {
+            "tooltip": "Action Required",
+            "log": {
+                "with": "Create a log",
+                "without": "Proceed without log"
+            },
+            "label": "Require Action",
+            "require-caption": "Would you like to add a task log before requesting action?",
+            "info": {
+                "description": "This task requires an action from your organisation!"
+            },
+            "done": "Would you like to add a task log before marking the required action as DONE?",
+            "mark-as-done": "Mark as Done",
+            "cancel-request": "Cancel request"
+        },
+        "details": {
+            "close": "Close task",
+            "pin": "Pin",
+            "description": "Description",
+            "task": "Task",
+            "group": "Group",
+            "assignee": "Assignee",
+            "date": "Date",
+            "dateNotStarted": "Not started yet",
+            "status": "Status",
+            "sharedWith": "Shared with",
+            "flag": "Flag"
+        },
+        "logs": {
+            "title": "Activity",
+            "add": "Add a new task log",
+            "show": "Show",
+            "editSuccess": "The task log has been succesfully edited",
+            "addSuccess": "The task log has been succesfully created",
+            "removeSuccess": "The task log has been succesfully removed",
+            "item": {
+                "deleteText": "You are about to delete a task log. If you do so, its contents will be permanently lost. Do you want to proceed?",
+                "edit": "Edit",
+                "responders": "Responders",
+                "remove": "Remove"
+            }
+        },
+        "quickview": {
+            "goToDetails": "See task details"
+        },
+        "list": {
+            "empty": "Task list is empty",
+            "header": {
+                "selected": "Task(s) selected"
+            },
+            "table": {
+                "columns": {
+                    "group": "Group",
+                    "task": "Task",
+                    "date": "Date",
+                    "assignee": "Assignee",
+                    "case": "Case"
+                },
+                "group": {
+                    "show-list": "Show tasks as list",
+                    "show-group": "Show tasks as group"
+                }
+            },
+            "sider": {
+                "add-task": "Add Task",
+                "status": "Status",
+                "actions": {
+                    "actions": "Actions",
+                    "flag": "Are you sure you want to flag these tasks?",
+                    "delete": "Are you sure you want to delete these tasks?",
+                    "close": "Are you sure you want to close these tasks?",
+                    "responders": "Are you sure you want to launch responders on these tasks?"
+                },
+                "groups": "Groups",
+                "sub-investigation": "Sub investigation",
+                "stats": "Stats"
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding a Task"
+            },
+            "form": {
+                "group": {
+                    "placeholder": "Group",
+                    "label": "Group"
+                },
+                "title": {
+                    "required": "Please enter a task title!",
+                    "placeholder": "Task title",
+                    "label": "Title"
+                },
+                "assignee": {
+                    "placeholder": "Choose an assignee",
+                    "label": "Assignee"
+                },
+                "description": {
+                    "placeholder": "Task description",
+                    "label": "Description"
+                },
+                "due-date": {
+                    "placeholder": "Choose a due date",
+                    "label": "Due date"
+                },
+                "submit": "Confirm task creation"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Editing a Task"
+            },
+            "form": {
+                "submit": "Confirm task edition"
+            }
+        },
+        "my-tasks": {
+            "status": "Status: {status}"
+        },
+        "waiting-tasks": {
+            "take": "Take"
+        },
+        "actions": {
+            "start": {
+                "single": "Are you sure you want to start this task?",
+                "multiple": "Are you sure you want to start these tasks?",
+                "label": "Start"
+            },
+            "close": {
+                "single": "Are you sure you want to close this task?",
+                "multiple": "Are you sure you want to close these tasks?",
+                "label": "Close"
+            },
+            "delete": {
+                "single": "Are you sure you want to delete this task?",
+                "multiple": "Are you sure you want to delete these tasks?",
+                "label": "Delete"
+            },
+            "flag": {
+                "label": "Flag"
+            },
+            "unflag": {
+                "label": "Unflag"
+            },
+            "responders": {
+                "label": "Responders"
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "configPlateform": {
+        "column": {
+            "description": "Description",
+            "nameServer": "Nom du server",
+            "action": "Action"
+        },
+        "section": {
+            "principal": "Général",
+            "servers": "Servers",
+            "proxySetting": "Paramètres du proxy",
+            "advancedSetting": "Paramètres avancés",
+            "filter": "Paramètres des filtres"
+        },
+        "action": {
+            "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce server ?",
+            "confirmeEdit": "Mettre à jour",
+            "confirmeAdd": "Ajouter"
+        },
+        "drawer": {
+            "titleEdit": "Configurer le server \"{name}\"",
+            "titleAdd": "Configurer le nouveau server"
+        },
+        "placeholder": {
+            "duration": "2 minutes"
+        },
+        "field": {
+            "interval": "Interval",
+            "api-key": "Clef d'API",
+            "nameServer": "Nom du server",
+            "urlServer": "Url du server",
+            "tags": "Tags",
+            "purpose": "Usage",
+            "importOnly": "Import seulement",
+            "exportOnly": "Export seulement",
+            "ImportAndExport": "Import et export",
+            "max-attributes": "Nombre maximum d'attributs",
+            "max-age": "Age maximum",
+            "whitelisTags": "Liste de tags autorisés",
+            "exclusionTags": "Liste de tags interdits",
+            "whitelistOrganisations": "Organisations inclus",
+            "exclusionOrganisations": "Organisations exclus",
+            "includedTheHiveOrganisations": "Organisations theHive inclus",
+            "excludedTheHiveOrganisations": "Organisations theHive exclus",
+            "maxRetryOnError": "Nombre maximal de tentatives en cas d'erreur",
+            "refreshDelay": "Délai de rafraîchissement",
+            "statusCheckInterval": "Intervalle de vérification"
+        },
+        "required": {
+            "general": "Ce champ est obligatoire"
+        },
+        "general": {
+            "advanced": "Paramètres avancés",
+            "setting": "configuration",
+            "enable": "Activé",
+            "disable": "Désactivé",
+            "success": "La configuration a été sauvegardée avec succès"
+        },
+        "local": {
+            "enable": "Activer l'authentification avec des comptes locaux",
+            "passwordPolicyenabled": "Activer politique de mot de passe",
+            "minLength": "Longueur minimale",
+            "minLowerCase": "Nombre minimum de caractères minuscules",
+            "minUpperCase": "Nombre minimum de caractères majuscules",
+            "minDigit": "Nombre minimal de chiffres",
+            "minSpecial": "Nombre minimum de caractères spéciaux",
+            "cannotContainUsername": "Interdire le nom d'utilisateur"
+        },
+        "authentication": {
+            "session": "Session",
+            "providers": "Providers",
+            "timeout": "Durée maximale d'inactivité de l'utilisateur avant la fermeture de la session",
+            "warning": "Temps que theHive affiche un message d'avertissement sur l'expiration.",
+            "key": { "enabled": "Utilisation de la clé API" },
+            "basic": { "enabled": "Authentification de base", "realm": "Realm" },
+            "header": { "enabled": "Authentifier en utilisant l'en-tête HTTP", "userHeader": "Nom de l'en-tête HTTP" },
+            "multifactor": { "enabled": "Authentification multifactorielle" }
+        },
+        "directory": {
+            "enable": "Activer Directory"
+        },
+        "ad": {
+            "hosts": "Adresses des contrôleurs de domaine",
+            "winDomain": "Nom de domaine",
+            "dnsDomain": "Nom de domaine du DNS",
+            "useSSL": "Utiliser SSL"
+        },
+        "ldap": {
+            "hosts": "Nom d'hôte ou adresse IP du serveur",
+            "useSSL": "Utiliser SSL",
+            "bindDN": "DN du compte de service",
+            "bindPW": "Lier le mot de passe",
+            "baseDN": "Utilisateurs Base DN",
+            "filter": "Filtre utilisé pour rechercher des utilisateurs"
+        },
+        "oauth": {
+            "enable": "Activer Oauth2",
+            "clientId": "Client ID",
+            "clientSecret": "Client secret",
+            "redirectUri": "Url de la page TheHive",
+            "grantType": "Type de grant",
+            "authorizationUrl": "Url du serveur",
+            "tokenUrl": "Url du token du serveur",
+            "userUrl": "Url pour obtenir les informations sur l'utilisateur dans le serveur",
+            "scope": "Liste du champ d'application",
+            "userIdField": "Champ qui contenant l'identifiant de l'utilisateur dans ses informations",
+            "organisationField": "Champ qui contient l'organisation",
+            "defaultOrganisation": "Organisation par défaut utilisée pour se connecter",
+            "authorizationHeader": "Préfixe de l'en-tête d'autorisation"
+        },
+        "message": {
+            "misp": {
+                "success": "La configuration Misp a été sauvegardée avec succès"
+            },
+            "cortex": {
+                "success": "La configuration Cortex a été sauvegardée avec succès"
+            }
+        }
+    }
+}

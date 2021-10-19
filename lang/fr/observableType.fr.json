@@ -1,0 +1,44 @@
+{
+    "observable-type": {
+        "list": {
+            "header": {
+                "selected": "Type(s) d'observable sélectionné(s)",
+                "add-profile": "Ajouter un Type d'Observable"
+            },
+            "table": {
+                "columns": {
+                    "name": "Nom",
+                    "action": "Action"
+                },
+                "selector": {
+                    "attachment": "Pièce jointe"
+                }
+            },
+            "delete-confirm": "Supprimer ce type d'observable ?"
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'un Type d'Observable"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Entrez le nom du type d'observable...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom !"
+                },
+                "is-attachment": {
+                    "label": "Pièce jointe"
+                },
+                "submit": "Confirmer la création du type d'observable"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Éditer le Type d'Observable"
+            },
+            "form": {
+                "submit": "Confirmer l'édition du type d'observable"
+            }
+        }
+    }
+}

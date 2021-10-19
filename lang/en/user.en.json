@@ -1,0 +1,126 @@
+{
+    "user": {
+        "none": "No users have been found.",
+        "mfa": "MFA",
+        "api-key": {
+            "renew": {
+                "label": "Renew",
+                "message": "Are you sure you want to renew the API Key?"
+            },
+            "revoke": {
+                "label": "Revoke",
+                "message": "Are you sure you want to revoke the API Key?"
+            },
+            "reveal": {
+                "label": "Reveal"
+            },
+            "create": {
+                "label": "Create",
+                "message": "Are you sure you want to create an API Key?"
+            }
+        },
+        "list": {
+            "header": {
+                "selected": "User(s) selected",
+                "add-user": "Add User"
+            },
+            "table": {
+                "columns": {
+                    "details": "Details",
+                    "api": "API Key",
+                    "updated-at": "Updated at",
+                    "fullname": "Full Name",
+                    "login": "Login",
+                    "profile": "Profile",
+                    "dates": "Dates"
+                }
+            }
+        },
+        "edit": {
+            "success": "User updated !"
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding a User"
+            },
+            "form": {
+                "organisation": {
+                    "label": "Organisation"
+                },
+                "login": {
+                    "placeholder": "Enter a login...",
+                    "label": "Login",
+                    "required": "Please enter a valid login!"
+                },
+                "name": {
+                    "placeholder": "Enter a name...",
+                    "label": "Name",
+                    "required": "Please enter a name!"
+                },
+                "profile": {
+                    "label": "Profile",
+                    "placeholder": "Choose a profile...",
+                    "required": "Please choose a profile!"
+                },
+                "permissions": {
+                    "label": "Permissions"
+                },
+                "organisations": {
+                    "required": "The user should have at least one organisation!"
+                },
+                "submit": "Confirm user creation"
+            }
+        },
+        "drawer": {
+            "status": {
+                "active": "Active",
+                "locked": "Locked"
+            },
+            "creation-date": "Creation date",
+            "update-date": "Last update",
+            "login": "Login",
+            "name": "Name",
+            "profile": "Profile",
+            "permissions": "Permissions",
+            "mfa": "MFA",
+            "password": {
+                "label": "Password",
+                "new-password": "New Password",
+                "edit-password": "Edit Password",
+                "empty-error": "Password can't be empty"
+            },
+            "reset-password": {
+                "label": "Initialize the password",
+                "cta": "Initialize",
+                "confirm": "Are you sure you want to initialize the password?"
+            },
+            "lock": {
+                "label": "Lock user",
+                "lock": "Lock",
+                "unlock": "Unlock"
+            },
+            "api-key": "API Key",
+            "delete": {
+                "label": "Delete user",
+                "message": "Are you sure you want to delete this user?"
+            }
+        },
+        "actions": {
+            "delete": {
+                "single": "Are you sure you want to delete this user?",
+                "multiple": "Are you sure you want to delete these users?",
+                "label": "Delete"
+            },
+            "lock": {
+                "single": "Are you sure you want to lock this user?",
+                "multiple": "Are you sure you want to lock these users?",
+                "label": "Lock"
+            },
+            "unlock": {
+                "single": "Are you sure you want to unlock this user?",
+                "multiple": "Are you sure you want to unlock these users?",
+                "label": "Unlock"
+            }
+        }
+    }
+}

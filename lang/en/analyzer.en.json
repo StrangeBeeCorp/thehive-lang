@@ -1,0 +1,35 @@
+{
+    "analyzer": {
+        "table": {
+            "title": "Analysis",
+            "column": {
+                "name": "Analyzer",
+                "analysis": "Last analysis",
+                "actions": "Actions",
+                "empty": "No Data"
+            }
+        },
+        "drawer": {
+            "choose": "Choose Cortex Server",
+            "run": "Run Selected Analyzers",
+            "next": "Next step"
+        },
+        "quickview": {
+            "drawer": {
+                "title": "Analysis report"
+            }
+        },
+        "launch": {
+            "success": "The job has been successfully launched!",
+            "error": "An unexpected error occurred while launching job!"
+        },
+        "observable": {
+            "title": "Observables extracted from analysis report",
+            "import": "Import observables",
+            "table": {
+                "type": "Type",
+                "value": "Value"
+            }
+        }
+    }
+}

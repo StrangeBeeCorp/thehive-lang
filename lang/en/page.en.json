@@ -1,0 +1,19 @@
+{
+    "page": {
+        "create": {
+            "drawer": {
+                "title": "Add a page to the knowledge base",
+                "label": "Add a page"
+            },
+            "form": {
+                "title": "Title",
+                "category": "Category"
+            }
+        },
+        "view": {
+            "title": "Knowledge base",
+            "delete": "Are you sure you want to delete this page?",
+            "search": "Search on page title or content..."
+        }
+    }
+}

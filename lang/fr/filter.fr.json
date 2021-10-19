@@ -1,0 +1,63 @@
+{
+    "filter": {
+        "form": {
+            "add-filter": {
+                "label": "Ajouter un filtre"
+            },
+            "field": {
+                "placeholder": "Choisissez un attribut..."
+            },
+            "values": {
+                "placeholder": "Choisissez une valeur..."
+            },
+            "number": {
+                "placeholder": "Choisissez un nombre..."
+            }
+        },
+        "footer": {
+            "apply": "Appliquer les filtres",
+            "clear": "Réinitialiser les filtres",
+            "add": "Ajouter un filtre"
+        },
+        "quick": {
+            "title": "Filtres Rapides",
+            "default": "Filtre par default",
+            "case": {
+                "open": "Cases ouverts",
+                "closed": "Cases fermés",
+                "my-open": "Mes cases fermés",
+                "my-closed": "Mes cases ouverts",
+                "owned": "Possédé par mon orga",
+                "shared": "Partagé avec mon orga"
+            },
+            "task": {
+                "my": "Mes tâches",
+                "in-progress": "Tâches en cours",
+                "waiting": "Tâches en attente",
+                "completed": "Tâches complétées",
+                "flagged": "Tâches marquées"
+            },
+            "alert": {
+                "read-events": "Événements lus",
+                "unread-events": "Événements non lus",
+                "imported-events": "Événements importés",
+                "follow-events": "Événements suivis",
+                "ignored-events": "Événements ignorés"
+            },
+            "related-case": {
+                "all": "Tous",
+                "open": "Ouvert",
+                "indeterminate": "Indéterminé",
+                "false-positive": "Faux Positif",
+                "true-positive": "Vrai Positif",
+                "other": "Autre"
+            },
+            "similar-cases": {
+                "open": "Cases ouverts",
+                "closed": "Cases fermés",
+                "true-positive": "Fermés - Vrai Positif",
+                "indeterminate": "Fermés - Indeterminés"
+            }
+        }
+    }
+}

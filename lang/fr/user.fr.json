@@ -1,0 +1,126 @@
+{
+    "user": {
+        "none": "Aucun utilisateur n'a été trouvé.",
+        "mfa": "MFA",
+        "api-key": {
+            "renew": {
+                "label": "Renouveler",
+                "message": "Êtes-vous sûr de vouloir renouveler la clé API ?"
+            },
+            "revoke": {
+                "label": "Révoquer",
+                "message": "Êtes-vous sûr de vouloir révoquer la clé API ?"
+            },
+            "reveal": {
+                "label": "Réveler"
+            },
+            "create": {
+                "label": "Créer",
+                "message": "Êtes-vous sûr de vouloir créer une clé API ?"
+            }
+        },
+        "list": {
+            "header": {
+                "selected": "Utilisateur(s) sélectionné(s)",
+                "add-user": "Ajout d'un Utilisateur"
+            },
+            "table": {
+                "columns": {
+                    "details": "Détails",
+                    "api": "Clé API",
+                    "updated-at": "Modifié le",
+                    "fullname": "Nom",
+                    "login": "Login",
+                    "profile": "Profil",
+                    "dates": "Dates"
+                }
+            }
+        },
+        "edit": {
+            "success": "Utilisateur mis à jour !"
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'un Utilisateur"
+            },
+            "form": {
+                "organisation": {
+                    "label": "Organisation"
+                },
+                "login": {
+                    "placeholder": "Entrez un login...",
+                    "label": "Login",
+                    "required": "Veuillez entrer un login valide !"
+                },
+                "name": {
+                    "placeholder": "Entrez un nom...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom !"
+                },
+                "profile": {
+                    "label": "Profil",
+                    "placeholder": "Choisissez un profil...",
+                    "required": "Veuillez choisir un profil !"
+                },
+                "permissions": {
+                    "label": "Permissions"
+                },
+                "organisations": {
+                    "required": "L'utilisateur doit avoir au moins une organisation !"
+                },
+                "submit": "Confirmer la création de l'utilisateur"
+            }
+        },
+        "drawer": {
+            "status": {
+                "active": "Actif",
+                "locked": "Verrouillé"
+            },
+            "creation-date": "Date de création",
+            "update-date": "Dernière mise à jour",
+            "login": "Login",
+            "name": "Nom",
+            "profile": "Profil",
+            "permissions": "Permissions",
+            "mfa": "MFA",
+            "password": {
+                "label": "Mot de passe",
+                "new-password": "Nouveau mot de passe",
+                "edit-password": "Éditer le mot de passe",
+                "empty-error": "Le mot de passe ne peut être vide"
+            },
+            "reset-password": {
+                "label": "Initialiser le mot de passe",
+                "cta": "Initialiser",
+                "confirm": "Êtes-vous sûr de vouloir initialiser le mot de passe ?"
+            },
+            "lock": {
+                "label": "Verrouiller l'utilisateur",
+                "lock": "Verrouiller",
+                "unlock": "Déverrouiller"
+            },
+            "api-key": "Clé API",
+            "delete": {
+                "label": "Supprimer l'utilisateur",
+                "message": "Êtes-vous sûr de vouloir supprimer l'utilisateur ?"
+            }
+        },
+        "actions": {
+            "delete": {
+                "single": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?",
+                "multiple": "Êtes-vous sûr de vouloir supprimer ces utilisateurs ?",
+                "label": "Supprimer"
+            },
+            "lock": {
+                "single": "Êtes-vous sûr de vouloir bloquer cet utilisateur ?",
+                "multiple": "Êtes-vous sûr de vouloir bloquer ces utilisateurs ?",
+                "label": "Bloquer"
+            },
+            "unlock": {
+                "single": "Êtes-vous sûr de vouloir débloquer cet utilisateur ?",
+                "multiple": "Êtes-vous sûr de vouloir débloquer ces utilisateurs ?",
+                "label": "Débloquer"
+            }
+        }
+    }
+}

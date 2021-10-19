@@ -1,0 +1,44 @@
+{
+    "observable-type": {
+        "list": {
+            "header": {
+                "selected": "Observable type(s) selected",
+                "add-profile": "Add Observable Type"
+            },
+            "table": {
+                "columns": {
+                    "name": "Name",
+                    "action": "Action"
+                },
+                "selector": {
+                    "attachment": "Attachment"
+                }
+            },
+            "delete-confirm": "Delete this observable type?"
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding an Observable Type"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Enter an observable type name...",
+                    "label": "Name",
+                    "required": "Please enter a name!"
+                },
+                "is-attachment": {
+                    "label": "Attachment"
+                },
+                "submit": "Confirm observable type creation"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Editing an Observable Type"
+            },
+            "form": {
+                "submit": "Confirm observable type edition"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "attachment": {
+        "create": {
+            "title": "Add attachment to the case",
+            "label": "File",
+            "required": "Please upload an attachment!",
+            "placeholder": "Attachment",
+            "submit": "Confirm attachment creation",
+            "password": "Password",
+            "field-required": "This field is required"
+        },
+        "action": {
+            "success": {
+                "add": "Attachment added!",
+                "delete": "Attachment deleted!"
+            }
+        },
+        "sider": {
+            "add": "Add attachment"
+        }
+    }
+}

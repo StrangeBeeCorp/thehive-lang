@@ -1,0 +1,340 @@
+{
+    "case": {
+        "none": "Aucun case n'a été trouvé.",
+        "merge": {
+            "title": "Fusion de cases",
+            "form": {
+                "radio": {
+                    "title": "Par titre",
+                    "number": "Par numéro de case"
+                },
+                "placeholder": {
+                    "title": "Entrez le titre du case",
+                    "number": "Entrez le numéro de case"
+                }
+            },
+            "submit": "Fusionner",
+            "success": "Les cases ont bien été mergés dans un nouveau case !"
+        },
+        "search": {
+            "caseId": {
+                "placeholder": "Entrer un ID de case"
+            }
+        },
+        "quickview": {
+            "header": {
+                "organisation": "Organisation",
+                "createdBy": "Créé par"
+            },
+            "relatedCases": {
+                "title": "Cas liés",
+                "button": "Tout voir ({casesCount} cas liés)",
+                "createdOn": "Créé le",
+                "shared": "Partage {linksCount} observable",
+                "age": {
+                    "oldest": "Plus ancien",
+                    "newest": "Plus récent"
+                }
+            },
+            "preview": "Visualiser"
+        },
+        "data": {
+            "assignee": "Référent",
+            "Dates": "Dates",
+            "creation-date": "Date de création",
+            "start-date": "Date de démarrage",
+            "close-date": "Date de fermeture",
+            "closed-status": "État de fermeture",
+            "description": "Description",
+            "severity": "Séverité",
+            "owner-org": "Organisation",
+            "shared-with": "Partagé avec",
+            "tasks": "Tâches",
+            "observables": "Observables",
+            "links": "Liens",
+            "created-by": "Créé par",
+            "resolution-status": "Statut de résolution"
+        },
+        "pin": {
+            "task-label": "Tâche",
+            "observable-label": "Observable",
+            "clearPins": "Tout fermer",
+            "task-deleted": "Supprimée",
+            "observable-deleted": "Supprimé"
+        },
+        "layout": {
+            "actions": {
+                "flag": "Marquer",
+                "unflag": "Démarquer",
+                "sharing": "Partager",
+                "export": "Exporter",
+                "merge": "Fusionner",
+                "delete": {
+                    "label": "Supprimer",
+                    "confirm": "Êtes-vous sûr de vouloir supprimer ce case ?"
+                },
+                "reopen": {
+                    "label": "Réouvrir",
+                    "confirm": "Êtes-vous sûr de vouloir réouvrir ce case ?"
+                },
+                "close": "Fermer",
+                "responders": "Responders"
+            },
+            "nav-bar": {
+                "description": "Description",
+                "tasks": "Tâches",
+                "observables": "Observables",
+                "responders": "Responders",
+                "procedures": "TTPs",
+                "attachments": "Fichiers",
+                "sharings": "Partages",
+                "related-cases": "Cases liés",
+                "related-alerts": "Alertes liées",
+                "similar-alerts": "Alertes similaires",
+                "comments": "Commentaires",
+                "pages": "Pages"
+            }
+        },
+        "actions": {
+            "edit": {
+                "label": "Éditer les cases"
+            },
+            "flag": {
+                "label": "Marquer le(s) case(s)"
+            },
+            "unflag": {
+                "label": "Démarquer le(s) case(s)"
+            },
+            "close": {
+                "label": "Fermer le(s) case(s)"
+            },
+            "reopen": {
+                "label": "Réouvrir le(s) case(s)"
+            },
+            "responders": {
+                "label": "Responders"
+            },
+            "delete": {
+                "label": "Supprimer"
+            }
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": "Éditer plusieurs cases"
+            },
+            "form": {
+                "add-tags": {
+                    "label": "Ajouter des tags"
+                },
+                "remove-tags": {
+                    "label": "Enlever des tags"
+                }
+            }
+        },
+        "export": {
+            "drawer-title": "Export de case",
+            "file": {
+                "title": "Exporter l'archive",
+                "description": "Vous êtes sur le point de télécharger une archive du case. Définissez un mot de passe pour protéger vos données",
+                "cta": "Exporter l'archive",
+                "password": "Mot de passe"
+            }
+        },
+        "stats": {
+            "status": "Case par état",
+            "resolution": "Case par résolution",
+            "tags": "Top 5 tags"
+        },
+        "list": {
+            "header": {
+                "selected": "Case(s) sélectionné(s)",
+                "actions": {
+                    "flag": "Êtes-vous sûr de vouloir marquer ces cases ?",
+                    "tooltip": {
+                        "flag": "Marquer les cases"
+                    }
+                }
+            },
+            "table": {
+                "columns": {
+                    "status": "État",
+                    "case-number": "#Numéro",
+                    "title": "Titre",
+                    "severity": "Séverité",
+                    "details": "Détails",
+                    "tasks": "Tâches",
+                    "observables": "Observables",
+                    "assignee": "Réferent",
+                    "date": "Date",
+                    "dates": "Dates"
+                },
+                "selector": {
+                    "created-by": "Créé par"
+                },
+                "description": {
+                    "open": "Ouvert {startDate}",
+                    "closed": "Fermé le",
+                    "as": "en tant que"
+                },
+                "isOwner": "Créé par mon organisation",
+                "shared": "Partagé",
+                "share-count": "L'organisation courante partage ce case avec {shareCount} organisation(s)"
+            }
+        },
+        "description": {
+            "sider": {
+                "responder-reports": {
+                    "title": "Rapports de responders",
+                    "no-reports": "Pas de rapports de responders",
+                    "end-date": "Date de fin",
+                    "cortex-server": "Serveur Cortex",
+                    "error": {
+                        "hide": "Cacher l'erreur",
+                        "show": "Afficher l'erreur"
+                    },
+                    "report": {
+                        "hide": "Cacher le rapport",
+                        "show": "Afficher le rapport"
+                    }
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": {
+                    "choose": " ",
+                    "scratch": "Créer un case à partir de zéro",
+                    "template": "Créer un case à partir d'un modèle",
+                    "import": "Importer d'une archive de case (zip)"
+                }
+            },
+            "steps": {
+                "choose": "Méthode de création du case",
+                "create-scratch": "Création du case",
+                "choose-template": "Choix du modèle",
+                "create-template": "Création du case à partir d'un modèle",
+                "create-import": "Import du case"
+            },
+            "choose": {
+                "type": "Choisissez comment créer votre case",
+                "scratch": "Case vide",
+                "template": "À partir d'un modèle",
+                "import": "À partir d'une archive (.thar)"
+            },
+            "case-template": {
+                "filter": {
+                    "placeholder": "Filtrez les modèles de case ici..."
+                }
+            },
+            "form": {
+                "title": {
+                    "label": "Titre",
+                    "required": "Entrez le titre du case !",
+                    "placeholder": "Titre du case..."
+                },
+                "description": {
+                    "label": "Description",
+                    "placeholder": "Décrivez le case ici..."
+                },
+                "date": {
+                    "label": "Date",
+                    "required": "Choisissez une date !"
+                },
+                "tags": {
+                    "label": "Tags",
+                    "placeholder": "Entrez des tags..."
+                },
+                "severity": {
+                    "label": "Sévérité"
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "pap": {
+                    "label": "PAP"
+                },
+                "tasks": {
+                    "label": "Tâches",
+                    "edit": "Éditer",
+                    "remove": "Supprimer"
+                },
+                "custom-fields": {
+                    "label": "Champs personnalisés",
+                    "edit": "Éditer",
+                    "remove": "Supprimer"
+                },
+                "confirm": "Confirmer la création du case"
+            }
+        },
+        "close": {
+            "form": {
+                "resolutionStatus": {
+                    "TruePositive": {
+                        "label": "Vrai Positif"
+                    },
+                    "FalsePositive": {
+                        "label": "Faux Positif"
+                    },
+                    "Indeterminate": {
+                        "label": "Indéterminé"
+                    },
+                    "Other": {
+                        "label": "Autre"
+                    },
+                    "label": "État",
+                    "required": "Veuillez choisir un état !"
+                },
+                "impactStatus": {
+                    "label": "Impact",
+                    "required": "Veuillez choisir un impact !"
+                },
+                "summary": {
+                    "label": "Résumé",
+                    "placeholder": "Court résumé",
+                    "required": "Veuillez entrer un résumé !"
+                },
+                "value": {
+                    "required": "Veuillez entrer une valeur !"
+                }
+            },
+            "button": {
+                "label": "Fermer"
+            },
+            "drawer": {
+                "title": "Fermer le case",
+                "table": {
+                    "title": "Ce case contient ces tâches qui sont encore ouvertes ou suivies:"
+                }
+            }
+        },
+        "attachment": {
+            "tab": {
+                "cases": "Cases",
+                "tasks": "Tâches"
+            },
+            "table": {
+                "filename": "Nom du fichier",
+                "type": "Type",
+                "size": "Taille",
+                "date": "Date"
+            },
+            "none": "Aucun fichier pour le moment"
+        },
+        "delete": {
+            "title": "Supprimer définitivement les cases",
+            "footer": "Supprimer définitivement",
+            "question": "Êtes-vous sûr de vouloir définitivement supprimer {casesNumber} case(s) ?",
+            "confirm": "Pour confirmer, veuiller entre le nombre de cases à supprimer.",
+            "warning": "Cette action peut prendre du temps et ne peut pas être annulée."
+        },
+        "similar-alerts": {
+            "none": "Aucune alerte similaire n'a été trouvée."
+        },
+        "related-cases": {
+            "none": "Aucun case lié n'a été trouvé."
+        },
+        "related-alerts": {
+            "none": "Aucune alerte liée n'a été trouvée."
+        }
+    }
+}

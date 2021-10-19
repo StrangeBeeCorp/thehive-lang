@@ -1,0 +1,45 @@
+{
+    "platform": {
+        "title": {
+            "label": "Statut de la Plateforme",
+            "export": "Exporter un rapport de statut"
+        },
+        "schema": {
+            "title": "Statut du schéma de la base de données",
+            "columns": {
+                "status": "Statut",
+                "schema": "Nom du schéma",
+                "version": "Version du schéma"
+            }
+        },
+        "index": {
+            "title": "Statut de l'index des données",
+            "reload": "Recharger",
+            "columns": {
+                "status": "Statut",
+                "index": "Nom de l'index",
+                "entities": "#Entités"
+            },
+            "actions": {
+                "reindex": {
+                    "label": "Ré-indexer",
+                    "confirm": "Êtes-vous sûr de vouloir activer la réindexation des données sur {entityName} ?",
+                    "success": "Réindexation des données sur {entityName} a bien démarré !"
+                }
+            }
+        },
+        "check": {
+            "title": "Vérification de l'intégrité de la base de données",
+            "columns": {
+                "control": "Nom du contrôle"
+            },
+            "actions": {
+                "trigger": {
+                    "label": "Activer",
+                    "confirm": "Êtes-vous sûr de vouloir activer le health check sur {entityName} ?",
+                    "success": "Health check des données sur {entityName} a bien démarré !"
+                }
+            }
+        }
+    }
+}

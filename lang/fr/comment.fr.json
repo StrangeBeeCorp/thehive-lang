@@ -1,0 +1,11 @@
+{
+    "comment": {
+        "section": "Commentaires",
+        "more": "{num} anciens commentaires",
+        "cancel": "Annuler",
+        "placeholder": "Ecrire ...",
+        "approvedCancel": "Voulez vous supprimer ce commentaire ?",
+        "submit": "Commenter",
+        "edited": "modifié"
+    }
+}

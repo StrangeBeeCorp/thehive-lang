@@ -1,0 +1,47 @@
+{
+    "search": {
+        "scope": {
+            "title": "Scope de recherche",
+            "case": {
+                "label": "Cases"
+            },
+            "task": {
+                "label": "Tâches"
+            },
+            "log": {
+                "label": "Rapports de tâches"
+            },
+            "observable": {
+                "label": "Observables"
+            },
+            "alert": {
+                "label": "Alertes"
+            },
+            "audit": {
+                "label": "Rapports d'audit"
+            },
+            "job": {
+                "label": "Jobs"
+            }
+        },
+        "filter": {
+            "title": "Filtres de recherche",
+            "subtitle": "Veuillez spécifier vos critères de recherche, en ajoutant vos filtres",
+            "filter-number": "filtre(s) appliqués",
+            "add": "Ajouter un filtre",
+            "clear": "Effacer tout",
+            "search": "Rechercher"
+        },
+        "results": {
+            "title": "Résultats de la recherche",
+            "records": "résultat(s) trouvé(s)",
+            "type": "Type",
+            "reference": "Réference",
+            "source": "Source",
+            "attributes": "Attributes",
+            "status": "État",
+            "closed": "Fermé le",
+            "resolution-status": "avec le statut"
+        }
+    }
+}

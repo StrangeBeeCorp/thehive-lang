@@ -1,0 +1,16 @@
+{
+    "configProxy": {
+        "field": {
+            "type": "Type de protocol",
+            "adress": "Adresse",
+            "authentication": "Authentification",
+            "username": "Nom d'utilisateur",
+            "password": "Mot de passe",
+            "acceptAnyCertificate": "Ne pas vérifier l'autorité de certification",
+            "disableHostnameVerification": "Désactiver la vérification du nom d'hôte"
+        },
+        "message": {
+            "notRecommended": "Non recommandé"
+        }
+    }
+}

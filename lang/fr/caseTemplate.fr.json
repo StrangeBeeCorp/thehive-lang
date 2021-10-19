@@ -1,0 +1,86 @@
+{
+    "case-template": {
+        "none": "Aucun modèle de case n'a été trouvé.",
+        "list": {
+            "header": {
+                "selected": "Modèles de case(s) sélectionné(s)",
+                "add-case-template": "Ajouter un Modèle de Case",
+                "import-case-template": "Importer un Modèle de Case"
+            },
+            "table": {
+                "columns": {
+                    "display-name": "Nom d'affichage",
+                    "name": "Nom",
+                    "details": "Détails",
+                    "tasks": "Tâches",
+                    "custom-fields": "Champs personnalisés",
+                    "by": "By",
+                    "actions": "Actions"
+                }
+            }
+        },
+        "actions": {
+            "delete": {
+                "multiple": "Supprimer ces modèles de case ?",
+                "single": "Supprimer ce modèle de case ?",
+                "label": "Supprimer"
+            },
+            "export": "Exporter le modèle de case"
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'un modèle de case"
+            },
+            "form": {
+                "name": {
+                    "label": "Nom",
+                    "required": "Veuillez entrer le nom du modèle de case !",
+                    "placeholder": "Nom du modèle de case..."
+                },
+                "displayName": {
+                    "label": "Nom d'affichage",
+                    "required": "Veuillez entrer le nom d'affichage du modèle de case !",
+                    "placeholder": "Nom d'affichage du modèle de case..."
+                },
+                "titlePrefix": {
+                    "label": "Préfixe",
+                    "required": "Veuillez entrer le préfixe de titre!",
+                    "placeholder": "Préfixe de titre du modèle de case..."
+                },
+                "description": {
+                    "label": "Description",
+                    "placeholder": "Décrivez le modèle de case...",
+                    "required": "Veuillez entrer une description !"
+                },
+                "tags": {
+                    "label": "Tags",
+                    "placeholder": "Entrez des tags..."
+                },
+                "severity": {
+                    "label": "Séverité"
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "pap": {
+                    "label": "PAP"
+                },
+                "submit": "Confirmer la création du modèle de case"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Édition du modèle de case"
+            },
+            "form": {
+                "submit": "Confirmer l'édition du modèle de case"
+            }
+        },
+        "import": {
+            "drawer": {
+                "title": "Import du modèle de case"
+            },
+            "submit": "Confirmer l'import du modèle de case"
+        }
+    }
+}

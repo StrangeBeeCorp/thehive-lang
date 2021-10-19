@@ -1,0 +1,178 @@
+{
+    "observable": {
+        "none": "No observables have been found.",
+        "preview": "Observable preview",
+        "details": {
+            "title": {
+                "data": "Data",
+                "type": "Type"
+            },
+            "pin": "Pin",
+            "tlp": "TLP",
+            "type": "Type",
+            "date": "Date added",
+            "isIoc": "Is IOC",
+            "sighted": "Sighted",
+            "ignore-similarity": "Ignore similarity",
+            "tags": "Tags",
+            "description": "Description",
+            "analysis": "Analysis",
+            "sharedWith": "Shared with"
+        },
+        "links": {
+            "title": "Seen in following cases",
+            "noLinks": "This observable has been seen in any other case"
+        },
+        "list": {
+            "header": {
+                "selected": "Observable(s) selected"
+            },
+            "table": {
+                "columns": {
+                    "type": "Type",
+                    "value": "Value/Filename",
+                    "date-added": "Date added"
+                },
+                "value": {
+                    "no-reports": "No report(s) available"
+                }
+            },
+            "sider": {
+                "add-task": "Add Observable",
+                "datatypes": "Data types",
+                "actions": {
+                    "actions": "Actions",
+                    "delete": {
+                        "single": "Are you sure you want to delete this observable?",
+                        "severals": "Are you sure you want to delete these observables?"
+                    }
+                },
+                "last-analysis": "Last analysis",
+                "stats": "Stats"
+            }
+        },
+        "quickview": {
+            "goToDetails": "Go to details",
+            "preview": "Preview",
+            "data": {
+                "description": "Description",
+                "report": "Report",
+                "noReport": "No report available",
+                "date": "Date added",
+                "isIoc": "Is IOC",
+                "sighted": "Has been sighted",
+                "notStarted": "Not started yet",
+                "status": "Status",
+                "sharedWith": "Shared with",
+                "analysis": {
+                    "title": "Analysis"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding an Observable"
+            },
+            "form": {
+                "type": {
+                    "required": "Please enter a type!",
+                    "placeholder": "Type",
+                    "label": "Type"
+                },
+                "attachment": {
+                    "required": "Please upload an attachment!",
+                    "placeholder": "Attachment",
+                    "label": "Attachment",
+                    "is-zip": {
+                        "label": "Is ZIP?"
+                    },
+                    "zip-password": {
+                        "label": "ZIP Password",
+                        "placeholder": "Enter a ZIP Password if there is one"
+                    }
+                },
+                "value": {
+                    "required": "Please enter a value!",
+                    "conditionnal_required": "At least, one required field",
+                    "placeholder": "Observable value",
+                    "label": "Value",
+                    "multiline": {
+                        "unique": {
+                            "label": "One observable per line",
+                            "observable": "observable"
+                        },
+                        "multi": "One single multiline observable"
+                    }
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "ioc": {
+                    "label": "Is IOC"
+                },
+                "sighted": {
+                    "label": "Has been sighted"
+                },
+                "similarity": {
+                    "label": "Ignore similarity"
+                },
+                "tags": {
+                    "label": "Tags"
+                },
+                "description": {
+                    "required": "Please enter a description!",
+                    "placeholder": "Observable description",
+                    "label": "Description"
+                },
+                "submit": "Confirm observable creation"
+            }
+        },
+        "sider": {
+            "add": "Add observable",
+            "links": "Seen in following cases",
+            "sharing": "Shared with following organisation(s)"
+        },
+        "actions": {
+            "delete": {
+                "single": "Are you sure you want to delete this observable?",
+                "multiple": "Are you sure you want to delete these observables?",
+                "label": "Delete"
+            },
+            "responders": {
+                "label": "Responders"
+            },
+            "export": {
+                "label": "Export"
+            },
+            "edit": {
+                "label": "Edit"
+            }
+        },
+        "stats": {
+            "type": "Observables by type",
+            "ioc": "Observables as IOC",
+            "tags": "Top 5 tags"
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": "Edit severals observables"
+            },
+            "form": {
+                "add-tags": {
+                    "label": "Add tags"
+                },
+                "remove-tags": {
+                    "label": "Remove tags"
+                }
+            }
+        },
+        "export": {
+            "title": "Export observable(s)",
+            "clipboard": "Copy to clipboard",
+            "save-file": "Save to file",
+            "file-format": "File format",
+            "protect": "Protect",
+            "preview": "Preview of the data to export"
+        }
+    }
+}

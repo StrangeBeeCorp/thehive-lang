@@ -1,0 +1,30 @@
+{
+    "responder": {
+        "no-reports": "Pas de rapports de responder disponibles !",
+        "drawer": {
+            "title": {
+                "case": {
+                    "single": "Lancer des responders sur le case #{caseNumber}",
+                    "multiple": "Lancer des responders sur des cases"
+                },
+                "case_task": {
+                    "single": "Lancer des responders sur la tâche",
+                    "multiple": "Lancer des responders sur des tâches"
+                },
+                "case_artifact": {
+                    "single": "Lancer des responders sur l'observable",
+                    "multiple": "Lancer des responders sur des observables"
+                },
+                "alert": {
+                    "single": "Lancer des responders sur l'alerte"
+                },
+                "case_task_log": {
+                    "single": "Lancer des responders sur le log de tâche"
+                }
+            },
+            "search-field": "Chercher un responder en particulier",
+            "launch": "Lancer le responder",
+            "confirm": "Êtes-vous sur de vouloir lancer ce responder ?"
+        }
+    }
+}

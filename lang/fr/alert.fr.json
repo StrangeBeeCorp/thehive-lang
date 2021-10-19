@@ -1,0 +1,155 @@
+{
+    "alert": {
+        "preview": "Aperçu de l'alerte",
+        "change-status": {
+            "form": {
+                "status": {
+                    "placeholder": "Choisissez un statut...",
+                    "label": "Statut",
+                    "required": "Veuillez choisir un statut"
+                },
+                "summary": {
+                    "placeholder": "Entrez un résumé...",
+                    "label": "Résumé"
+                }
+            },
+            "drawer": {
+                "title": "Changer le statut de l'alerte",
+                "submit": "Confirmer le changement de statut"
+            }
+        },
+        "none": "Aucune alerte n'a été trouvée.",
+        "similar-cases": {
+            "none": "Aucun case similaire n'a été trouvé.",
+            "table": {
+                "title": {
+                    "label": "Titre",
+                    "filter": "Filtrer par titre"
+                },
+                "created-at": "Créé le",
+                "observables": {
+                    "label": "Observables",
+                    "filter": "% min."
+                },
+                "iocs": {
+                    "label": "IOCs",
+                    "filter": "% min."
+                },
+                "matches": {
+                    "label": "Correspondance",
+                    "filter": "Sélectionner",
+                    "select-all": "Sélectionner tout",
+                    "unselect-all": "Déselectionner tout"
+                },
+                "actions": {
+                    "label": "Action",
+                    "clear": "Effacer filtres",
+                    "merge": "Fusionner dans ce case"
+                }
+            }
+        },
+        "table": {
+            "header": {
+                "selected": "Alerte(s) sélectionnée(s)"
+            },
+            "columns": {
+                "severity": "Sévérité",
+                "status": "Statut",
+                "title": "Titre",
+                "read": "Lu",
+                "case": "# Case",
+                "details": "Détails",
+                "observables": "Observables",
+                "date": {
+                    "label": "Date",
+                    "imported": "Importée après"
+                },
+                "source": "Source",
+                "type": "Type"
+            },
+            "values": {
+                "caseCreated": "Case créé"
+            }
+        },
+        "quickview": {
+            "data": {
+                "goToDetails": "Voir le detail"
+            }
+        },
+        "layout": {
+            "nav-bar": {
+                "observables": "Observables",
+                "responders": "Responders",
+                "procedures": "TTPs",
+                "similar-cases": "Cases similaires",
+                "similar-alerts": "Alertes similaires",
+                "comments": "Commentaires"
+            }
+        },
+        "actions": {
+            "create-case-from-alert": {
+                "label": "Créer un case à partir d'une alerte"
+            },
+            "follow": {
+                "label": "Suivre les nouvelles MAJ"
+            },
+            "unfollow": {
+                "label": "Ignorer les nouvelles MAJ"
+            },
+            "markAsRead": {
+                "label": "Marquer comme lu"
+            },
+            "markAsUnread": {
+                "label": "Marquer comme non-lu"
+            },
+            "create-case-several": {
+                "label": "Nouveau case à partir de la sélection"
+            },
+            "merge-alerts": {
+                "label": "Fusionner la sélection dans un case"
+            },
+            "change-status": {
+                "label": "Changer l'état"
+            },
+            "delete": {
+                "confirm": "Êtes-vous sûr de vouloir supprimer cette alerte ?",
+                "label": "Supprimer"
+            },
+            "responders": {
+                "label": "Responders"
+            }
+        },
+        "merge": {
+            "title": "Fusion d'alerte(s) dans un case",
+            "form": {
+                "radio": {
+                    "title": "Par titre",
+                    "number": "Par numéro de case"
+                },
+                "placeholder": {
+                    "title": "Entrez le titre du case",
+                    "number": "Entrez le numéro de case"
+                }
+            },
+            "submit": "Fusionner"
+        },
+        "severity": "Sévérité",
+        "description": "Description",
+        "date": "Date",
+        "observables": "Observables",
+        "similarCases": "Cases Similaires",
+        "similarCasesShort": "Cases",
+        "source": "Source",
+        "type": "Type",
+        "statut": "Statut",
+        "id": "ID",
+        "status-summary": "Résumé du statut",
+        "status": "Statut",
+        "reference": "Référence",
+        "stats": {
+            "status": "Alertes par état",
+            "type": "Top 5 Types",
+            "tags": "Top 5 tags"
+        }
+    }
+}

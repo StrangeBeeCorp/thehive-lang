@@ -1,0 +1,128 @@
+{
+    "notification": {
+        "copy": "Copié dans le presse-papiers !",
+        "task": {
+            "create": "La tâche a bien été créée !",
+            "edit": "La tâche a bien été éditée !",
+            "doesnotExist": "Cette tâche n'est pas accessible !",
+            "sharing": {
+                "add": "Tâche partagée avec succès !",
+                "remove": "Le partage a été correctement supprimé !"
+            },
+            "action": {
+                "required": "Une action a bien été demandée pour cette tâche !",
+                "done": "Une action n'est plus requise pour cette tâche !"
+            }
+        },
+        "task-log": {
+            "create": "Le log a bien été créé !",
+            "edit": "Le log a bien été édité !",
+            "delete": "Le log a bien été supprimé !"
+        },
+        "observable": {
+            "create": "L'observable a bien été créé !",
+            "edit": "L'observable a bien été édité !",
+            "sharing": {
+                "add": "Observable partagé avec succès !",
+                "remove": "Le partage a été correctement supprimé !"
+            },
+            "delete": "Observable supprimé avec succès !",
+            "doesnotExist": "Cet observable n'est pas accessible !"
+        },
+        "responder": {
+            "launch": "Le responder a bien été lancé !"
+        },
+        "case": {
+            "create": "Le case a bien été créé !",
+            "edit": "Le case a bien été édité !",
+            "sharing": {
+                "add": "Case partagé avec succès !",
+                "remove": "Le partage a été correctement supprimé !"
+            },
+            "delete": "Le case a bien été supprimé !",
+            "doesnotExist": "Ce case n'est pas accessible !",
+            "pages": {
+                "add": "La page a bien été créée !",
+                "edit": "La page a bien été éditée !",
+                "delete": "La page a bien été supprimée !"
+            }
+        },
+        "organisation": {
+            "link": "Les liens de l'organisation {orgId} ont bien été mis à jour !",
+            "create": "L'organisation a bien été créée !",
+            "edit": "L'organisation a bien été éditée !",
+            "switch": "L'organisation courante a correctement été changée !",
+            "unauthorized": "Vous n'avez pas accès à l'organisation demandée !",
+            "doesnotExist": "Cette organisation n'est pas accessible !"
+        },
+        "user": {
+            "create": "L'utilisateur a bien été créé !",
+            "edit": "L'utilisateur a bien été édité !",
+            "delete": "L'utilisateur a bien été supprimé !",
+            "copyKey": "La clé d'API a bien été copiée !",
+            "reset-password-sent": "Le mail pour redéfinir votre mot de passe a bien été envoyé !",
+            "change-password": "Le mot de passe a bien été changé !"
+        },
+        "profile": {
+            "create": "Le profil a bien été créé !",
+            "edit": "Le profil a bien été édité !"
+        },
+        "customField": {
+            "create": "Le champ personnalisé a bien été créé !",
+            "edit": "Le champ personnalisé a bien été édité !",
+            "delete": "Le champ personnalisé a bien été supprimé !"
+        },
+        "observable-type": {
+            "create": "Le type d'observable a bien été créé !",
+            "delete": "Le type d'observable a bien été supprimé !"
+        },
+        "password": {
+            "edit": "Le mot de passe a bien été mis à jour !",
+            "edit-failed": "La mise à jour du mot de passe a échouée !"
+        },
+        "APIKey": {
+            "create": "Une nouvelle clé API a été créée !",
+            "revoke": "La clé API a bien été révoquéée !"
+        },
+        "case-template": {
+            "create": "Le modèle de case a bien été créé !",
+            "edit": "Le modèle de case a bien été édité !",
+            "import": "Le modèle de case a bien été importé !",
+            "delete": "Le modèle de case a bien été supprimé !"
+        },
+        "analyzer-template": {
+            "create": "Le modèle a bien été créé !",
+            "edit": "Le modèle a bien été édité !",
+            "import": {
+                "success": "{count}/{total} modèles ont bien été importé !",
+                "error": "Les modèles \"{listModel}\" n'ont pas pu être importé !"
+            },
+            "delete": "Le modèle a bien été supprimé !"
+        },
+        "dashboard": {
+            "create": "Le dashboard a bien été créé !",
+            "delete": "Le dashboard a bien été supprimé !",
+            "edit": "Le dashboard a bien été édité !"
+        },
+        "alert": {
+            "follow": "L'alerte a bien été suivie !",
+            "unfollow": "L'alerte a bien été non-suivie !",
+            "read": "L'alerte a bien été marquée comme lue !",
+            "unread": "L'alerte a bien été marquée comme suivie !",
+            "create-case-several": "Les alertes ont bien été mergées dans le case !",
+            "delete": "L'alerte a bien été supprimée !",
+            "doesnotExist": "Cette alerte n'est pas accessible !",
+            "edit": "L'alerte a bien été éditée !"
+        },
+        "page": {
+            "create": "La page a bien été créée !",
+            "edit": "La page a bien été éditée !",
+            "delete": "La page a bien été supprimée !"
+        },
+        "alert-status": {
+            "create": "Le statut d'alerte a bien été créé !",
+            "edit": "Le statut d'alerte a bien été édité !",
+            "delete": "Le statut d'alerte a bien été supprimé !"
+        }
+    }
+}

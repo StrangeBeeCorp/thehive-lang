@@ -1,0 +1,35 @@
+{
+    "analyzer": {
+        "table": {
+            "title": "Analyses",
+            "column": {
+                "name": "Analyses",
+                "analysis": "Analyzer",
+                "actions": "Actions",
+                "empty": "Pas de données"
+            }
+        },
+        "drawer": {
+            "choose": "Choisir le serveur Cortex",
+            "run": "Lancer les analyzers",
+            "next": "Suivant"
+        },
+        "quickview": {
+            "drawer": {
+                "title": "Rapport d'analyse"
+            }
+        },
+        "launch": {
+            "success": "Le job a bien été lancé !",
+            "error": "Une erreur inattendue s'est produite lors du lancement de la tâche!"
+        },
+        "observable": {
+            "title": "Observables extraits du rapport d'analyse",
+            "import": "Importer les observables",
+            "table": {
+                "type": "Type",
+                "value": "Valeur"
+            }
+        }
+    }
+}

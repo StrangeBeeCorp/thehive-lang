@@ -1,0 +1,91 @@
+{
+    "case-template": {
+        "none": "No case templates have been found.",
+        "list": {
+            "header": {
+                "selected": "Case template(s) selected",
+                "add-case-template": "Add Case Template",
+                "import-case-template": "Import Case Template"
+            },
+            "table": {
+                "columns": {
+                    "display-name": "Display Name",
+                    "name": "Name",
+                    "details": "Details",
+                    "tasks": "Tasks",
+                    "custom-fields": "Custom fields",
+                    "by": "By",
+                    "actions": "Actions"
+                }
+            }
+        },
+        "actions": {
+            "delete": {
+                "multiple": "Delete these case templates?",
+                "single": "Delete this case template?",
+                "label": "Delete"
+            },
+            "export": "Export case template"
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding a Case Template"
+            },
+            "form": {
+                "name": {
+                    "label": "Name",
+                    "required": "Enter a case template name!",
+                    "placeholder": "Case template name..."
+                },
+                "displayName": {
+                    "label": "Display name",
+                    "required": "Enter a case template display name!",
+                    "placeholder": "Case template display name..."
+                },
+                "titlePrefix": {
+                    "label": "Prefix",
+                    "required": "Enter a case template title prefix!",
+                    "placeholder": "Case template title prefix..."
+                },
+                "description": {
+                    "label": "Description",
+                    "placeholder": "Describe the case template here...",
+                    "required": "Please enter a description!"
+                },
+                "tags": {
+                    "label": "Tags",
+                    "placeholder": "Write tags here..."
+                },
+                "severity": {
+                    "label": "Severity"
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "pap": {
+                    "label": "PAP"
+                },
+                "tasks": {
+                    "label": "Case tasks",
+                    "edit": "Edit",
+                    "remove": "Remove"
+                },
+                "submit": "Confirm case template creation"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Editing a Case Template"
+            },
+            "form": {
+                "submit": "Confirm case template edition"
+            }
+        },
+        "import": {
+            "drawer": {
+                "title": "Importing a Case Template"
+            },
+            "submit": "Confirm case template import"
+        }
+    }
+}

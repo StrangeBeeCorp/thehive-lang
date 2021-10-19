@@ -1,0 +1,128 @@
+{
+    "notification": {
+        "copy": "Copied to clipboard!",
+        "task": {
+            "create": "Task created successfully!",
+            "edit": "Task updated successfully!",
+            "doesnotExist": "Task doesn't exist!",
+            "sharing": {
+                "add": "Task shared successfully!",
+                "remove": "Sharing rule successfully removed!"
+            },
+            "action": {
+                "required": "Action has been requested for this task!",
+                "done": "Action is no more required for this task!"
+            }
+        },
+        "task-log": {
+            "create": "Log created successfully!",
+            "edit": "Log updated successfully!",
+            "delete": "Log deleted successfully!"
+        },
+        "observable": {
+            "create": "Observable created successfully!",
+            "edit": "Observable edited successfully!",
+            "sharing": {
+                "add": "Observable shared successfully!",
+                "remove": "Sharing rule successfully removed!"
+            },
+            "delete": "Observable removed successfully!",
+            "doesnotExist": "Observable doesn't exist!"
+        },
+        "responder": {
+            "launch": "Responder job has been launched!"
+        },
+        "case": {
+            "create": "Case created successfully!",
+            "edit": "Case updated successfully!",
+            "sharing": {
+                "add": "Case shared successfully!",
+                "remove": "Sharing rule successfully removed!"
+            },
+            "delete": "Case successfully deleted!",
+            "doesnotExist": "Case doesn't exist!",
+            "pages": {
+                "add": "Page created successfully!",
+                "edit": "Page edited successfully!",
+                "delete": "Page deleted successfully!"
+            }
+        },
+        "organisation": {
+            "link": "Organisation links has been updated!",
+            "create": "Organisation has been created!",
+            "edit": "Organisation edited successfully!",
+            "switch": "Current organisation has changed!",
+            "unauthorized": "You don't have access to this organisation!",
+            "doesnotExist": "Organisation doesn't exist!"
+        },
+        "user": {
+            "create": "User created successfully!",
+            "edit": "User edited successfully!",
+            "delete": "User deleted successfully!",
+            "copyKey": "The API key has been copied!",
+            "reset-password-sent": "Mail for password reset has been sent!",
+            "change-password": "Password has been changed!"
+        },
+        "profile": {
+            "create": "Profile created successfully!",
+            "edit": "Profile edited successfully!"
+        },
+        "customField": {
+            "create": "Custom field created successfully!",
+            "edit": "Custom field edited successfully!",
+            "delete": "Custom field removed successfully!"
+        },
+        "observable-type": {
+            "create": "Observable type created successfully!",
+            "delete": "Observable type removed successfully!"
+        },
+        "password": {
+            "edit": "Password updated successfully!",
+            "edit-failed": "Password edition has failed!"
+        },
+        "APIKey": {
+            "create": "API key created successfully!",
+            "revoke": "API key revoked successfully!"
+        },
+        "case-template": {
+            "create": "Case template created successfully!",
+            "edit": "Case template edited successfully!",
+            "import": "Case template imported successfully!",
+            "delete": "Case template removed successfully!"
+        },
+        "analyzer-template": {
+            "create": "Template created successfully!",
+            "edit": "Template edited successfully!",
+            "import": {
+                "success": "{count}/{total} models have been imported !",
+                "error": "Models \"{listModel}\" could not be imported !"
+            },
+            "delete": "Template removed successfully!"
+        },
+        "dashboard": {
+            "create": "Dashboard created successfully!",
+            "delete": "Dashboard successfully removed!",
+            "edit": "Dashboard successfully edited!"
+        },
+        "alert": {
+            "follow": "Alert(s) followed successfully!",
+            "unfollow": "Alert(s) unfollowed successfully!",
+            "read": "Alert(s) marked as read successfully!",
+            "unread": "Alert(s) marked as unread successfully!",
+            "create-case-several": "Alert(s) have been merged into case!",
+            "delete": "Alert has been successfully deleted!",
+            "doesnotExist": "Alert doesn't exist!",
+            "edit": "Alert has been successfully edited!"
+        },
+        "page": {
+            "create": "Page created successfully!",
+            "edit": "Page edited successfully!",
+            "delete": "Page deleted successfully!"
+        },
+        "alert-status": {
+            "create": "Alert status created successfully!",
+            "edit": "Alert status edited successfully!",
+            "delete": "Alert status deleted successfully!"
+        }
+    }
+}

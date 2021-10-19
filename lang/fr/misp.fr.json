@@ -1,0 +1,13 @@
+{
+    "misp": {
+        "title": "Exporter vers MISP",
+        "description": "Vous êtes sur le point d'exporter ce case vers l'un des serveurs MISP suivants:",
+        "export": {
+            "cta": "Exporter",
+            "message": {
+                "success": "Le case a été exporté avec succès",
+                "error": "Une erreur inattendue s'est produite lors de l'export du case"
+            }
+        }
+    }
+}

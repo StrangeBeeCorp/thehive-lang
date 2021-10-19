@@ -1,0 +1,44 @@
+{
+    "attackPattern": {
+        "none": "No attack patterns have been found.",
+        "list": {
+            "columns": {
+                "patternId": "ID",
+                "name": "Name",
+                "parent-patternId": "Sub-Technique of",
+                "tactics": "Tactics",
+                "description": "Description"
+            }
+        },
+        "import": {
+            "title": "Import MITRE ATT&CK patterns",
+            "label": "Import MITRE ATT&CK patterns",
+            "footer": "Import",
+            "header": {
+                "title": "Download the official MITRE ATT&CK library",
+                "download": "You can download the latest archive of the official MITRE ATT&CK patterns",
+                "link": "from here"
+            },
+            "upload": {
+                "title": "MITRE ATT&CK patterns",
+                "content": "Drop file or click"
+            }
+        },
+        "preview": {
+            "name": "Sub-technique Name",
+            "nameParent": "Sub-Technique of",
+            "url": "url",
+            "dataSources": "Data Sources",
+            "defenseBypassed": "Defense Bypassed",
+            "permissionsRequired": "Permissions Required",
+            "systemRequirements": "System Requirements",
+            "remoteSupport": "Remote Support",
+            "capecId": "Capec ID",
+            "capecUrl": "Capec URL",
+            "description": "Description",
+            "children": "Children",
+            "patternId": "Id",
+            "tactics": "tactics"
+        }
+    }
+}

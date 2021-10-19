@@ -1,0 +1,30 @@
+{
+    "responder": {
+        "no-reports": "No responder reports available!",
+        "drawer": {
+            "title": {
+                "case": {
+                    "single": "Run responder jobs on case #{caseNumber}",
+                    "multiple": "Run responder jobs on cases"
+                },
+                "case_task": {
+                    "single": "Run responder jobs on current task",
+                    "multiple": "Run responder jobs on tasks"
+                },
+                "case_artifact": {
+                    "single": "Run responder jobs on current observable",
+                    "multiple": "Run responder jobs on observables"
+                },
+                "alert": {
+                    "single": "Run responder jobs on current alert"
+                },
+                "case_task_log": {
+                    "single": "Run responder jobs on current tasklog"
+                }
+            },
+            "search-field": "Search for a specific responder",
+            "launch": "Launch responder",
+            "confirm": "Are you sure you want to launch this responder?"
+        }
+    }
+}

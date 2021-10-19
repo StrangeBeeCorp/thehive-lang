@@ -1,0 +1,58 @@
+{
+    "procedure": {
+        "none": "No TTPs have been found.",
+        "details": {
+            "tactic": "Tactic",
+            "created-by": "Created by",
+            "occur-date": "Occur date",
+            "created-at": "Created at",
+            "updated-at": "Updated at",
+            "description": "Procedure",
+            "technique": "Technique"
+        },
+        "list": {
+            "tactic": "Tactic",
+            "technique": "Technique",
+            "by": "By",
+            "dates": "Dates",
+            "actions": {
+                "delete": {
+                    "confirm": "Are you sure you want to delete this procedure?"
+                }
+            }
+        },
+        "notification": {
+            "create": "Procedure has been created successfully!",
+            "edit": "Procedure has been edited!",
+            "delete": "Procedure has been deleted!"
+        },
+        "create": {
+            "label": "Add TTP",
+            "submit": "Create TTP",
+            "tactic": {
+                "label": "Tactic",
+                "required": "Please choose a tactic!",
+                "placeholder": "Choose a tactic..."
+            },
+            "catalog": {
+                "label": "Catalog",
+                "required": "Please choose a catalog!",
+                "placeholder": "Choose a catalog..."
+            },
+            "occur": {
+                "label": "Occur date",
+                "required": "Please choose a date!"
+            },
+            "technique": {
+                "label": "Technique",
+                "filter-placeholder": "Filter attack patterns...",
+                "required": "Please select a technique!"
+            },
+            "procedure": {
+                "label": "Procedure",
+                "placeholder": "Enter a procedure...",
+                "add": "Add"
+            }
+        }
+    }
+}

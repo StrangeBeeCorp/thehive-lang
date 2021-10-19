@@ -1,0 +1,22 @@
+{
+    "attachment": {
+        "create": {
+            "title": "Ajout d'un fichier au case",
+            "label": "Fichier",
+            "required": "Veuillez choisir une pièce jointe !",
+            "placeholder": "Pièce jointe",
+            "submit": "Confirmer l'ajout du fichier",
+            "password": "Mot de passe",
+            "field-required": "Ce champ est requis"
+        },
+        "action": {
+            "success": {
+                "add": "Fichier ajouté !",
+                "delete": "Fichier supprimé !"
+            }
+        },
+        "sider": {
+            "add": "Ajouter un fichier"
+        }
+    }
+}

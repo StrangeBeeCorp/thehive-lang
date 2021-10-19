@@ -1,0 +1,42 @@
+{
+    "login": {
+        "title": "Bonjour",
+        "subtitle": "Connectez vous pour commencer votre session",
+        "form": {
+            "login": {
+                "placeholder": "Identifiant",
+                "required": "Veuillez entrer un identifiant valide !"
+            },
+            "password": {
+                "placeholder": "Mot de passe",
+                "required": "Veuillez entrer votre mot de passe !"
+            },
+            "confirm-password": {
+                "placeholder": "Confirmer le mot de passe",
+                "required": "Veuillez entrer un mot de passe valide !",
+                "same": "Les mots de passes que vous avez entrés ne correspondent pas !"
+            },
+            "code": {
+                "placeholder": "Code MFA",
+                "required": "Veuillez entrer votre code MFA !"
+            },
+            "actions": {
+                "signin": "Se connecter",
+                "forgot": "J'ai oublié mon mot de passe",
+                "remember": "Se souvenir de moi"
+            }
+        },
+        "sso": "Se connecter avec SSO",
+        "change": {
+            "title": "Créer un nouveau mot de passe",
+            "reset": "Votre mot de passe a été réinitialisé !",
+            "enter": "Veuillez créer un nouveau mot de passe afin de pouvoir vous connecter à TheHive !"
+        },
+        "reset": {
+            "title": "Réinitialiser votre mot de passe",
+            "forgot": "Si vous avez oublié votre mot de passe ou en créer un nouveau, veuillez entrer votre adresse mail.",
+            "receive": "Vous recevrez un mail avec un lien qui vous permettra de réinitialiser votre mot de passe."
+        },
+        "set-password": "Définir le mot de passe"
+    }
+}

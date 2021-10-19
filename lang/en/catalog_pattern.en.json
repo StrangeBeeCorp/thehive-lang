@@ -1,0 +1,39 @@
+{
+    "catalog_pattern": {
+        "none": "No catalogs have been found.",
+        "list": {
+            "header": {
+                "selected": "Catalog(s) selected",
+                "add-organisation": "Add catalog"
+            },
+            "table": {
+                "columns": {
+                    "name": "Name",
+                    "created-by": "Created by",
+                    "created-at": "Created date"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding a catalog"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Enter a name...",
+                    "label": "Name",
+                    "required": "Please enter a valid name!"
+                },
+                "description": {
+                    "placeholder": "Enter a description",
+                    "label": "Description",
+                    "required": "Please enter a valid description!"
+                },
+                "submit": "Confirm catalog creation"
+            }
+        },
+        "drawer": {
+            "details": "See catalog details"
+        }
+    }
+}

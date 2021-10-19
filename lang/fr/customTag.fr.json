@@ -1,0 +1,38 @@
+{
+    "customTags": {
+        "none": "Aucun tag personnalisé n'a été trouvé.",
+        "list": {
+            "columns": {
+                "name": "Nom",
+                "colour": "Couleur",
+                "cases": "Cases",
+                "alerts": "Alertes",
+                "observables": "Observables",
+                "templates": "Templates",
+                "by": "Par",
+                "dates": "Dates"
+            },
+            "actions": {
+                "delete": {
+                    "label": "Supprimer",
+                    "success": "Tag personnalisé supprimé !"
+                }
+            }
+        },
+        "add": {
+            "label": "Ajouter depuis une bibliothèque",
+            "title": "Sélectionner des tags depuis une bibliothèque",
+            "footer": "Ajouter les tags sélectionnés",
+            "tags": {
+                "title": "Tags sélectionnés",
+                "clear": "Effacer la sélection"
+            },
+            "taxonomy": {
+                "choose-taxonomy": "Choisir la taxonomie",
+                "choose-tags": "Choisir les tags depuis la taxonomie",
+                "another": "Choisir une autre taxonomie",
+                "filter": "Filtrer les tags..."
+            }
+        }
+    }
+}

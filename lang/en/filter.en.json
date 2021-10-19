@@ -1,0 +1,63 @@
+{
+    "filter": {
+        "form": {
+            "add-filter": {
+                "label": "Add filter"
+            },
+            "field": {
+                "placeholder": "Choose an attribute..."
+            },
+            "values": {
+                "placeholder": "Choose a value..."
+            },
+            "number": {
+                "placeholder": "Choose a number..."
+            }
+        },
+        "footer": {
+            "apply": "Apply filters",
+            "clear": "Clear filters",
+            "add": "Add filter"
+        },
+        "quick": {
+            "title": "Quick Filters",
+            "default": "Default filter",
+            "case": {
+                "open": "Open cases",
+                "closed": "Closed cases",
+                "my-open": "My open cases",
+                "my-closed": "My closed cases",
+                "owned": "Owned by my org",
+                "shared": "Shared with my org"
+            },
+            "task": {
+                "my": "My tasks",
+                "in-progress": "In progress tasks",
+                "waiting": "Waiting tasks",
+                "completed": "Completed tasks",
+                "flagged": "Flagged tasks"
+            },
+            "alert": {
+                "read-events": "Read events",
+                "unread-events": "Unread events",
+                "imported-events": "Imported events",
+                "follow-events": "Follow events",
+                "ignored-events": "Ignored events"
+            },
+            "related-case": {
+                "all": "All",
+                "open": "Open",
+                "indeterminate": "Indeterminate",
+                "false-positive": "False Positive",
+                "true-positive": "True Positive",
+                "other": "Other"
+            },
+            "similar-cases": {
+                "open": "Open cases",
+                "closed": "Closed cases",
+                "true-positive": "Closed - True Positive",
+                "indeterminate": "Closed - Indeterminate"
+            }
+        }
+    }
+}

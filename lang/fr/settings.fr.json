@@ -1,0 +1,42 @@
+{
+    "settings": {
+        "form": {
+            "hideEmptyCaseButton": {
+                "label": "Masquer le bouton case vide",
+                "description": "Cochez cette case pour interdire la création de case vide"
+            },
+            "disallowMergeAlertInResolvedSimilarCases": {
+                "label": "Fusionner les alertes dans des cases fermés",
+                "description": "Cochez cette case pour interdire la fusion des alertes dans les cases fermés"
+            },
+            "defaultAlertSimilarCaseFilter": {
+                "label": "Sélectionnez le filtre par défaut du panneau de similarité d'alerte de case",
+                "options": {
+                    "open-cases": "Cases ouverts",
+                    "open-cases-last-7days": "Cases ouverts sur les 7 derniers jours",
+                    "open-cases-last-30days": "Cases ouverts sur les 30 derniers jours",
+                    "open-cases-last-3months": "Cases ouverts sur les 3 derniers mois",
+                    "open-cases-last-year": "Cases ouverts sur cette année",
+                    "resolved-cases": "Cases résolus",
+                    "none": "Aucun filtre"
+                }
+            },
+            "defaultDateFormat": {
+                "label": "Définir le format de date par défaut utilisé pour l'affichage",
+                "descriptions": {
+                    "currentPreview": "Aperçu :",
+                    "moreSample": "Exemples :",
+                    "display": "affichera",
+                    "more": "Pour plus d'information sur les formats <a href=\"https://momentjs.com/docs/#/displaying/format/\" target=\"_blank\" rel=\"noreferrer\">suivre ce lien</a>"
+                },
+                "required": "Veuillez entrer un format de date valide !"
+            }
+        },
+        "actions": {
+            "update": {
+                "success": "Configuration mise à jour",
+                "error": "Erreur lors de la configuration"
+            }
+        }
+    }
+}

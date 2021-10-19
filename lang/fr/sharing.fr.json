@@ -1,0 +1,58 @@
+{
+    "sharing": {
+        "title": "Partages",
+        "add-share": "Partager case",
+        "no-shares": "Aucun partage actuellement !",
+        "table": {
+            "organisation": "Organisation",
+            "profile": "Profil",
+            "shared-at": "Partagé le",
+            "action": {
+                "delete": "Êtes-vous sûr de vouloir arrêter le partage avec cette organisation ?"
+            }
+        },
+        "add": "Ajouter un partage",
+        "owner": "Propriétaire du partage",
+        "delete": {
+            "confirm": {
+                "case": "Êtes-vous sûr de vouloir enlever le partage de ce case pour cette organisation ?",
+                "observable": "Êtes-vous sûr de vouloir enlever le partage de cet observable pour cette organisation ?",
+                "task": "Êtes-vous sûr de vouloir enlever le partage de cette tâche pour cette organisation ?"
+            },
+            "label": "Enlever le partage"
+        },
+        "create": {
+            "title": {
+                "case": "Partage du case",
+                "observable": "Partage de l'observable",
+                "task": "Partage de la tâche"
+            },
+            "button": {
+                "case": "Confirmer le partage du case",
+                "observable": "Confirmer le partage de l'observable",
+                "task": "Confirmer le partage de la tâche"
+            }
+        },
+        "form": {
+            "required": "Requis",
+            "organisation": {
+                "label": "Organisation",
+                "placeholder": "Selectionner une organisation"
+            },
+            "profile": {
+                "label": "Profil",
+                "placeholder": "Sélectionner un profil"
+            },
+            "value": {
+                "all": "Tous",
+                "none": "Aucun"
+            },
+            "tasks": "Tâches",
+            "observables": "Observables"
+        },
+        "drawer": {
+            "list": "Liste des partages",
+            "create": "Ajouter un partage"
+        }
+    }
+}

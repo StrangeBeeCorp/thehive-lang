@@ -1,0 +1,9 @@
+{
+    "pin": {
+        "shortcut": {
+            "info": "Vous pouvez épingler {limit} élément(s)",
+            "limit": "Limite d'éléments épinglés atteinte",
+            "remove-all": "Supprimer tous les éléments épinglés"
+        }
+    }
+}

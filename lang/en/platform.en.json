@@ -1,0 +1,45 @@
+{
+    "platform": {
+        "title": {
+            "label": "Platform Status",
+            "export": "Export status report"
+        },
+        "schema": {
+            "title": "Database Schema status",
+            "columns": {
+                "status": "Status",
+                "schema": "Schema name",
+                "version": "Schema version"
+            }
+        },
+        "index": {
+            "title": "Data index status",
+            "reload": "Reload",
+            "columns": {
+                "status": "Status",
+                "index": "Index name",
+                "entities": "#Entities"
+            },
+            "actions": {
+                "reindex": {
+                    "label": "Reindex",
+                    "confirm": "Are you sure you want to trigger {entityName} data reindex?",
+                    "success": "Reindexing of {entityName} data started successfully!"
+                }
+            }
+        },
+        "check": {
+            "title": "Database integrity check",
+            "columns": {
+                "control": "Control name"
+            },
+            "actions": {
+                "trigger": {
+                    "label": "Trigger",
+                    "confirm": "Are you sure you want to trigger {entityName} health check?",
+                    "success": "Data health check of {entityName} started successfully!"
+                }
+            }
+        }
+    }
+}

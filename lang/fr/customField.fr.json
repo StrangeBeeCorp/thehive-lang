@@ -1,0 +1,105 @@
+{
+    "customField": {
+        "none": "Aucun champ personnalisé n'a été trouvé.",
+        "none-group": "Aucun champ personnalisé dans ce groupe.",
+        "title": "Informations additionnelles",
+        "void": "Aucune information complémentaire à afficher",
+        "placeholder": "Valeur",
+        "addTitle": "Ajouter un custom field",
+        "fieldPlaceholder": "Sélectionner un champ",
+        "list": {
+            "header": {
+                "selected": "Champ(s) personnalisé(s) sélectionné(s)",
+                "add-custom-field": "Ajout d'un Champ Personnalisé"
+            },
+            "table": {
+                "columns": {
+                    "details": "Détails",
+                    "type": "Type",
+                    "options": "Options",
+                    "group": "Groupe",
+                    "action": "Action"
+                },
+                "options": {
+                    "empty": "Aucune"
+                },
+                "selector": {
+                    "mandatory": "Obligatoire"
+                }
+            },
+            "delete-confirm": "Supprimer ce champ personnalisé ?"
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'un Champ Personnalisé"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Entrez un nom...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom !"
+                },
+                "technical-name": {
+                    "placeholder": "Le nom technique sera affiché ici",
+                    "label": "Nom technique",
+                    "help": "Utilisez ce nom dans les intégrations."
+                },
+                "display-name": {
+                    "placeholder": "Entrez un nom d'affichage...",
+                    "label": "Nom d'affichage"
+                },
+                "description": {
+                    "placeholder": "Entrez une description...",
+                    "label": "Description",
+                    "required": "Veuillez entrer une description !"
+                },
+                "type": {
+                    "label": "Type",
+                    "placeholder": "Choisissez un type...",
+                    "required": "Veuillez choisir un type !"
+                },
+                "options": {
+                    "placeholder": "Entrez une option par ligne...",
+                    "label": "Options"
+                },
+                "mandatory": {
+                    "label": "Obligatoire",
+                    "help": "Ce champ personnalisé doit être rempli avant de fermer le case !"
+                },
+                "submit": "Confirmer la création du champ personnalisé"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Édition d'un Champ Personnalisé"
+            },
+            "form": {
+                "submit": "Confirmer l'édition du champ personnalisé"
+            }
+        },
+        "value": {
+            "create": {
+                "drawer": {
+                    "title": "Ajout d'une valeur de Champ Personnalisé"
+                },
+                "form": {
+                    "submit": "Confirmer l'ajout d'une valeur de champ personnalisé"
+                }
+            },
+            "edit": {
+                "drawer": {
+                    "title": "Edition d'une valeur de Champ Personnalisé"
+                },
+                "form": {
+                    "submit": "Confirmer l'édition d'une valeur de champ personnalisé"
+                }
+            }
+        },
+        "use": {
+            "placeholder": {
+                "select": "Sélectionner une valeur",
+                "input": "Entrer une valeur"
+            }
+        }
+    }
+}

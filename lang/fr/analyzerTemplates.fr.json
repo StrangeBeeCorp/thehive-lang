@@ -1,0 +1,31 @@
+{
+    "analyzerTemplates": {
+        "none": "Aucun template d'analyseur n'a été trouvé.",
+        "list": {
+            "columns": {
+                "name": "Nom",
+                "template": "Modèles"
+            },
+            "delete-confirm": "Supprimer ce Modèle ?",
+            "cta": {
+                "view": "Modèle",
+                "default": "Modèle par défaut",
+                "save": "Enregistrer le modèle"
+            }
+        },
+        "import": {
+            "title": "Importer des modèles",
+            "label": "Importer des modèles",
+            "footer": "Importer",
+            "header": {
+                "title": "Télécharger des modèles officielles",
+                "download": "Vous pouvez télécharger les modèles officielles",
+                "link": "ici"
+            },
+            "upload": {
+                "title": "Archive de modèles",
+                "content": "Glisser un fichier ou cliquer"
+            }
+        }
+    }
+}

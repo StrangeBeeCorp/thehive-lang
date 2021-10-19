@@ -1,0 +1,340 @@
+{
+    "case": {
+        "none": "No cases have been found.",
+        "merge": {
+            "title": "Merge case",
+            "form": {
+                "radio": {
+                    "title": "By title",
+                    "number": "By case number"
+                },
+                "placeholder": {
+                    "title": "Enter the case title",
+                    "number": "Enter the case number"
+                }
+            },
+            "submit": "Merge",
+            "success": "Cases have been merged into a new case!"
+        },
+        "search": {
+            "caseId": {
+                "placeholder": "Enter a case ID"
+            }
+        },
+        "quickview": {
+            "header": {
+                "organisation": "Organisation",
+                "createdBy": "Created by"
+            },
+            "relatedCases": {
+                "title": "Related Cases",
+                "button": "See all ({casesCount} related cases)",
+                "createdOn": "Created on",
+                "shared": "Shares {linksCount} observable",
+                "age": {
+                    "oldest": "Oldest",
+                    "newest": "Newest"
+                }
+            },
+            "preview": "Preview"
+        },
+        "data": {
+            "assignee": "Assignee",
+            "dates": "Dates",
+            "creation-date": "Creation Date",
+            "start-date": "Start Date",
+            "close-date": "Close Date",
+            "closed-status": "Closed Status",
+            "description": "Description",
+            "severity": "Severity",
+            "owner-org": "Owner Org",
+            "shared-with": "Shared with",
+            "tasks": "Tasks",
+            "observables": "Observables",
+            "links": "Links",
+            "created-by": "Created by",
+            "resolution-status": "Resolution Status"
+        },
+        "pin": {
+            "task-label": "Task",
+            "observable-label": "Observable",
+            "clearPins": "close all pins",
+            "task-deleted": "Deleted",
+            "observable-deleted": "Deleted"
+        },
+        "layout": {
+            "actions": {
+                "flag": "Flag",
+                "unflag": "Unflag",
+                "sharing": "Sharing",
+                "export": "Export",
+                "merge": "Merge",
+                "delete": {
+                    "label": "Delete",
+                    "confirm": "Are you sure you want to delete this case?"
+                },
+                "close": "Close",
+                "reopen": {
+                    "label": "Reopen",
+                    "confirm": "Are you sure you want to reopen this case?"
+                },
+                "responders": "Responders"
+            },
+            "nav-bar": {
+                "description": "Description",
+                "tasks": "Tasks",
+                "procedures": "TTPs",
+                "observables": "Observables",
+                "responders": "Responders",
+                "attachments": "Attachments",
+                "related-cases": "Related cases",
+                "sharings": "Sharings",
+                "related-alerts": "Related alerts",
+                "similar-alerts": "Similar alerts",
+                "comments": "Comments",
+                "pages": "Pages"
+            }
+        },
+        "actions": {
+            "edit": {
+                "label": "Edit case(s)"
+            },
+            "flag": {
+                "label": "Flag case(s)"
+            },
+            "unflag": {
+                "label": "Unflag case(s)"
+            },
+            "close": {
+                "label": "Close case(s)"
+            },
+            "reopen": {
+                "label": "Reopen case(s)"
+            },
+            "responders": {
+                "label": "Responders"
+            },
+            "delete": {
+                "label": "Delete"
+            }
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": "Edit multiple cases"
+            },
+            "form": {
+                "add-tags": {
+                    "label": "Add Tags"
+                },
+                "remove-tags": {
+                    "label": "Remove Tags"
+                }
+            }
+        },
+        "export": {
+            "drawer-title": "Export case",
+            "file": {
+                "title": "Export as an archive",
+                "description": "You are about to download an archive from the case. Please set a password for the archive to secure your data",
+                "cta": "Export archive",
+                "password": "Password"
+            }
+        },
+        "stats": {
+            "status": "Case by status",
+            "resolution": "Case by resolution",
+            "tags": "Top 5 tags"
+        },
+        "list": {
+            "header": {
+                "selected": "Case(s) selected",
+                "actions": {
+                    "flag": "Are you sure you want to flag these cases?",
+                    "tooltip": {
+                        "flag": "Flag cases"
+                    }
+                }
+            },
+            "table": {
+                "columns": {
+                    "status": "Status",
+                    "case-number": "#Number",
+                    "title": "Title",
+                    "severity": "Severity",
+                    "details": "Details",
+                    "tasks": "Tasks",
+                    "observables": "Observables",
+                    "assignee": "Assignee",
+                    "date": "Date",
+                    "dates": "Dates"
+                },
+                "selector": {
+                    "created-by": "Created by"
+                },
+                "description": {
+                    "open": "Opened {startDate}",
+                    "closed": "Closed at",
+                    "as": "as"
+                },
+                "isOwner": "Created by my organization",
+                "shared": "Shared",
+                "share-count": "Current organisation has shared this Case with {shareCount} organisation(s)"
+            }
+        },
+        "description": {
+            "sider": {
+                "responder-reports": {
+                    "title": "Responder Reports",
+                    "no-reports": "No reports",
+                    "end-date": "End date",
+                    "cortex-server": "Cortex Server",
+                    "error": {
+                        "hide": "Hide error",
+                        "show": "Show error"
+                    },
+                    "report": {
+                        "hide": "Hide report",
+                        "show": "Show report"
+                    }
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": {
+                    "choose": " ",
+                    "scratch": "Create case from scratch",
+                    "template": "Create case from template",
+                    "import": "Import from a case archive (.thar)"
+                }
+            },
+            "steps": {
+                "choose": "Case creation method",
+                "create-scratch": "Case creation",
+                "choose-template": "Template choose",
+                "create-template": "Case creation with template",
+                "create-import": "Import from a case archive (.thar)"
+            },
+            "choose": {
+                "type": "Choose how you want to create your case",
+                "scratch": "Empty case",
+                "template": "From template",
+                "import": "From archive (.thar)"
+            },
+            "case-template": {
+                "filter": {
+                    "placeholder": "Filter case templates here..."
+                }
+            },
+            "form": {
+                "title": {
+                    "label": "Title",
+                    "required": "Enter a case title!",
+                    "placeholder": "Case title..."
+                },
+                "description": {
+                    "label": "Description",
+                    "placeholder": "Describe the case here..."
+                },
+                "date": {
+                    "label": "Date",
+                    "required": "Choose a date!"
+                },
+                "tags": {
+                    "label": "Tags",
+                    "placeholder": "Write tags here..."
+                },
+                "severity": {
+                    "label": "Severity"
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "pap": {
+                    "label": "PAP"
+                },
+                "tasks": {
+                    "label": "Tasks",
+                    "edit": "Edit",
+                    "remove": "Remove"
+                },
+                "custom-fields": {
+                    "label": "Custom fields",
+                    "edit": "Edit",
+                    "remove": "Remove"
+                },
+                "confirm": "Confirm case creation"
+            }
+        },
+        "close": {
+            "form": {
+                "resolutionStatus": {
+                    "TruePositive": {
+                        "label": "True Positive"
+                    },
+                    "FalsePositive": {
+                        "label": "False Positive"
+                    },
+                    "Indeterminate": {
+                        "label": "Indeterminate"
+                    },
+                    "Other": {
+                        "label": "Other"
+                    },
+                    "label": "Status",
+                    "required": "Please choose a status!"
+                },
+                "impactStatus": {
+                    "label": "Impact",
+                    "required": "Please choose an impact!"
+                },
+                "summary": {
+                    "label": "Summary",
+                    "placeholder": "Close summary",
+                    "required": "Please enter a summary!"
+                },
+                "value": {
+                    "required": "Please enter a value!"
+                }
+            },
+            "button": {
+                "label": "Close"
+            },
+            "drawer": {
+                "title": "Close the case",
+                "table": {
+                    "title": "This case contains the following open or unassigned tasks:"
+                }
+            }
+        },
+        "attachment": {
+            "tab": {
+                "cases": "Cases",
+                "tasks": "Tasks"
+            },
+            "table": {
+                "filename": "Filename",
+                "type": "Type",
+                "size": "Size",
+                "date": "Date"
+            },
+            "none": "No attachments have been found."
+        },
+        "delete": {
+            "title": "Permanently remove selected cases",
+            "footer": "Delete cases permanently",
+            "question": "Are you sure you want to permanently remove the following {casesNumber} case(s)?",
+            "confirm": "To confirm, please type the number of cases to delete.",
+            "warning": "This action might take a while and cannot be undone."
+        },
+        "similar-alerts": {
+            "none": "No similar alerts have been found."
+        },
+        "related-cases": {
+            "none": "No related cases have been found."
+        },
+        "related-alerts": {
+            "none": "No related alerts have been found."
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "observable": {
+        "none": "Aucun observable n'a été trouvé.",
+        "preview": "Aperçu de l'observable",
+        "details": {
+            "title": {
+                "data": "Donnée",
+                "type": "Type"
+            },
+            "tlp": "TLP",
+            "type": "Type",
+            "date": "Date d'ajout",
+            "isIoc": "Est IOC",
+            "sighted": "Visualisé",
+            "ignore-similarity": "Ignorer les similarités",
+            "tags": "Tags",
+            "description": "Description",
+            "analysis": "Analyses",
+            "sharedWith": "Partagé avec",
+            "pin": "Epingler"
+        },
+        "links": {
+            "title": "Vu dans les cases suivants",
+            "noLinks": "Cet observable n'est présent dans aucun autre case"
+        },
+        "list": {
+            "header": {
+                "selected": "Observable(s) sélectionné(s)"
+            },
+            "table": {
+                "columns": {
+                    "type": "Type",
+                    "value": "Valeur/Nom du fichier",
+                    "date-added": "Date d'ajout"
+                },
+                "value": {
+                    "no-reports": "Pas d'analyses disponibles"
+                }
+            },
+            "sider": {
+                "add-task": "Ajouter un Observable",
+                "datatypes": "Types de données",
+                "actions": {
+                    "actions": "Actions",
+                    "delete": {
+                        "single": "Êtes-vous sûr de vouloir supprimer cet observable ?",
+                        "severals": "Êtes-vous sûr de vouloir supprimer ces observables ?"
+                    }
+                },
+                "last-analysis": "Dernières analyses",
+                "stats": "Stats"
+            }
+        },
+        "quickview": {
+            "goToDetails": "Consulter l'observable",
+            "preview": "Visualiser",
+            "data": {
+                "description": "Description",
+                "report": "Rapport",
+                "noReport": "Aucun rapport disponible",
+                "date": "Date d'ajout",
+                "isIoc": "Est IOC",
+                "sighted": "A été visualisé",
+                "notStarted": "Pas démarré",
+                "status": "Statut",
+                "sharedWith": "Partagé avec",
+                "analysis": {
+                    "title": "Analyser"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'un observable"
+            },
+            "form": {
+                "type": {
+                    "required": "Veuillez entrer un type !",
+                    "placeholder": "Type",
+                    "label": "Type"
+                },
+                "attachment": {
+                    "required": "Veuillez choisir une pièce jointe !",
+                    "placeholder": "Pièce jointe",
+                    "label": "Pièce jointe",
+                    "is-zip": {
+                        "label": "Archive ?"
+                    },
+                    "zip-password": {
+                        "label": "Mot de passe de l'archive",
+                        "placeholder": "Entrez le mot de passe de l'archive si il y en a un"
+                    }
+                },
+                "value": {
+                    "required": "Veuillez entrer une valeur !",
+                    "conditionnal_required": "Au moins, un champ est obligatoire",
+                    "placeholder": "Entrez un observable",
+                    "label": "Valeur",
+                    "multiline": {
+                        "unique": {
+                            "label": "Un observable par ligne",
+                            "observable": "observable"
+                        },
+                        "multi": "Un seul observable sur plusieurs lignes"
+                    }
+                },
+                "tlp": {
+                    "label": "TLP"
+                },
+                "ioc": {
+                    "label": "Est IOC"
+                },
+                "sighted": {
+                    "label": "Pris en compte"
+                },
+                "similarity": {
+                    "label": "Ignorer la similarité"
+                },
+                "tags": {
+                    "label": "Tags"
+                },
+                "description": {
+                    "required": "Veuillez entrer une description !",
+                    "placeholder": "Description de l'observable",
+                    "label": "Description"
+                },
+                "submit": "Confirmer la création de l'observable"
+            }
+        },
+        "sider": {
+            "add": "Ajouter observable",
+            "links": "Vu dans les cases suivants",
+            "sharing": "Partagé avec les organisations"
+        },
+        "actions": {
+            "delete": {
+                "single": "Êtes-vous sûr de vouloir supprimer cet observable ?",
+                "multiple": "Êtes-vous sûr de vouloir supprimer ces observables ?",
+                "label": "Supprimer"
+            },
+            "responders": {
+                "label": "Responders"
+            },
+            "export": {
+                "label": "Exporter"
+            },
+            "edit": {
+                "label": "Editer"
+            }
+        },
+        "stats": {
+            "type": "Observables par type",
+            "ioc": "Observables comme IOC",
+            "tags": "Top 5 tags"
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": "Éditer plusieurs observables"
+            },
+            "form": {
+                "add-tags": {
+                    "label": "Ajouter des tags"
+                },
+                "remove-tags": {
+                    "label": "Enlever des tags"
+                }
+            }
+        },
+        "export": {
+            "title": "Exporter observable(s)",
+            "clipboard": "Copier dans le presse-papiers",
+            "save-file": "Télécharger",
+            "file-format": "Format du fichier",
+            "protect": "Protéger",
+            "preview": "Aperçu des données à exporter"
+        }
+    }
+}

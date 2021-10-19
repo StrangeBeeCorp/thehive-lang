@@ -1,0 +1,105 @@
+{
+    "customField": {
+        "none": "No custom fields have been found.",
+        "none-group": "No custom fields in this group.",
+        "title": "Additional Informations",
+        "void": "No additional informations provided",
+        "placeholder": "Value",
+        "addTitle": "Add custom field",
+        "fieldPlaceholder": "Select a field",
+        "list": {
+            "header": {
+                "selected": "Custom field(s) selected",
+                "add-custom-field": "Add Custom Field"
+            },
+            "table": {
+                "columns": {
+                    "details": "Details",
+                    "type": "Type",
+                    "options": "Options",
+                    "group": "Group",
+                    "action": "Action"
+                },
+                "options": {
+                    "empty": "None"
+                },
+                "selector": {
+                    "mandatory": "Mandatory"
+                }
+            },
+            "delete-confirm": "Delete this custom field?"
+        },
+        "create": {
+            "drawer": {
+                "title": "Adding a Custom Field"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Enter a name...",
+                    "label": "Name",
+                    "required": "Please enter a name!"
+                },
+                "technical-name": {
+                    "placeholder": "The technical name will be displayed here",
+                    "label": "Technical name",
+                    "help": "Use this name in integrations."
+                },
+                "display-name": {
+                    "placeholder": "Enter a display name...",
+                    "label": "Display name"
+                },
+                "description": {
+                    "placeholder": "Enter a description...",
+                    "label": "Description",
+                    "required": "Please enter a description!"
+                },
+                "type": {
+                    "label": "Type",
+                    "placeholder": "Choose a type...",
+                    "required": "Please choose a type!"
+                },
+                "options": {
+                    "placeholder": "Enter one option per line...",
+                    "label": "Options"
+                },
+                "mandatory": {
+                    "label": "Mandatory",
+                    "help": "This custom field should be completed before closing the case!"
+                },
+                "submit": "Confirm custom field creation"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Editing a Custom Field"
+            },
+            "form": {
+                "submit": "Confirm custom field edition"
+            }
+        },
+        "value": {
+            "create": {
+                "drawer": {
+                    "title": "Adding a Custom Field Value"
+                },
+                "form": {
+                    "submit": "Confirm custom field value creation"
+                }
+            },
+            "edit": {
+                "drawer": {
+                    "title": "Editing a Custom Field Value"
+                },
+                "form": {
+                    "submit": "Confirm custom field value edition"
+                }
+            }
+        },
+        "use": {
+            "placeholder": {
+                "select": "Select a value",
+                "input": "Enter a value"
+            }
+        }
+    }
+}

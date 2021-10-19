@@ -1,0 +1,22 @@
+{
+    "alert-status": {
+        "create": {
+            "label": "Ajout d'un statut d'alerte",
+            "drawer": {
+                "title": "Ajout d'un statut d'alerte"
+            },
+            "form": {
+                "value": {
+                    "label": "Valeur",
+                    "required": "Veuillez entrer une valeur !",
+                    "placeholder": "Entrez une valeur..."
+                },
+                "submit": "Confirmer la création du statut d'alerte"
+            }
+        },
+        "list": {
+            "value": "Valeur",
+            "delete": "Êtes-vous sûr de vouloir supprimer ce statut ?"
+        }
+    }
+}

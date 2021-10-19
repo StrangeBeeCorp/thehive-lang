@@ -1,0 +1,27 @@
+{
+    "stream": {
+        "header": {
+            "delete": "Supprimé par",
+            "update": "Mis à jour par",
+            "creation": "Créé par"
+        },
+        "terminated": "Terminé",
+        "card": {
+            "comment": {
+                "create": "Commentaire ajouté",
+                "update": "Commentaire mis à jour",
+                "delete": "Commentaire supprimé"
+            },
+            "page": {
+                "create": "Page ajoutée",
+                "update": "Page mise à jour",
+                "delete": "Page supprimée"
+            },
+            "procedure": {
+                "create": "Procédure ajoutée",
+                "update": "Procédure mise à jour",
+                "delete": "Procédure supprimée"
+            }
+        }
+    }
+}

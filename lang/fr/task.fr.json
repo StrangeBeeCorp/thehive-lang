@@ -1,0 +1,153 @@
+{
+    "task": {
+        "none": "Aucune tâche n'a été trouvé.",
+        "preview": "Aperçu de la tâche",
+        "actionRequired": {
+            "tooltip": "Action Requise",
+            "log": {
+                "with": "Créer un log",
+                "without": "Ne pas créer de log"
+            },
+            "label": "Demander une action",
+            "require-caption": "Voulez vous ajouter un log avant de demander une action ?",
+            "info": {
+                "description": "Cette tâche nécéssite une action de la part de votre organisation !"
+            },
+            "done": "Voulez vous ajouter un log avant de marquer cette action comme finie ?",
+            "mark-as-done": "Marquer comme Finie",
+            "cancel-request": "Annuler la requête"
+        },
+        "details": {
+            "close": "Fermer la tâche",
+            "pin": "Epingler",
+            "description": "Description",
+            "task": "Tâche",
+            "group": "Groupe",
+            "assignee": "Assigné à",
+            "date": "Date",
+            "dateNotStarted": "Pas encore démarrée",
+            "status": "Statut",
+            "sharedWith": "Partagé avec",
+            "flag": "Marqué"
+        },
+        "logs": {
+            "title": "Activité",
+            "add": "Ajouter un log",
+            "show": "Afficher",
+            "editSuccess": "Le log a correctement été modifié",
+            "addSuccess": "Le log a correctement été créé",
+            "removeSuccess": "Le log a correctement été supprimé",
+            "item": {
+                "deleteText": "Ce log est sur le point d'être supprimé. Cette opération ne peut pas être annulée. Continuer ?",
+                "edit": "Editer",
+                "responders": "Responders",
+                "remove": "Supprimer"
+            }
+        },
+        "quickview": {
+            "goToDetails": "Voir la tâche"
+        },
+        "list": {
+            "empty": "Aucune tâche",
+            "header": {
+                "selected": "Tâches sélectionnée(s)"
+            },
+            "table": {
+                "columns": {
+                    "group": "Groupe",
+                    "task": "Tâche",
+                    "date": "Date",
+                    "assignee": "Référent",
+                    "case": "Case"
+                },
+                "group": {
+                    "show-list": "Afficher en liste",
+                    "show-group": "Afficher par groupe"
+                }
+            },
+            "sider": {
+                "add-task": "Ajouter une Tâche",
+                "status": "Status",
+                "actions": {
+                    "actions": "Actions",
+                    "flag": "Êtes-vous sûr de vouloir marquer ces tâches ?",
+                    "delete": "Êtes-vous sûr de vouloir supprimer ces tâches ?",
+                    "close": "Êtes-vous sûr de vouloir fermer ces tâches ?",
+                    "responders": "Êtes-vous sûr de vouloir lancer des responders sur ces tâches ?"
+                },
+                "groups": "Groupes",
+                "sub-investigation": "Sous-investigation",
+                "stats": "Stats"
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajout d'une tâche"
+            },
+            "form": {
+                "group": {
+                    "placeholder": "Groupe",
+                    "label": "Groupe"
+                },
+                "title": {
+                    "required": "Veuillez entrer un titre pour la tâche !",
+                    "placeholder": "Titre de la tâche",
+                    "label": "Titre"
+                },
+                "assignee": {
+                    "placeholder": "Choisissez un référent",
+                    "label": "Référent"
+                },
+                "description": {
+                    "placeholder": "Description de la tâche",
+                    "label": "Description"
+                },
+                "due-date": {
+                    "placeholder": "Choisissez une date d'échéance",
+                    "label": "Date d'échéance"
+                },
+                "submit": "Confirmer la création de la tâche"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Édition d'une tâche"
+            },
+            "form": {
+                "submit": "Confirmer l'édition de la tâche"
+            }
+        },
+        "my-tasks": {
+            "status": "État: {status}"
+        },
+        "waiting-tasks": {
+            "take": "Prendre"
+        },
+        "actions": {
+            "start": {
+                "single": "Êtes-vous sûr de vouloir démarrer cette tâche ?",
+                "multiple": "Êtes-vous sûr de vouloir démarrer ces tâches ?",
+                "label": "Démarrer"
+            },
+            "close": {
+                "single": "Êtes-vous sûr de vouloir fermer cette tâche ?",
+                "multiple": "Êtes-vous sûr de vouloir fermer ces tâches ?",
+                "label": "Fermer"
+            },
+            "delete": {
+                "single": "Êtes-vous sûr de vouloir supprimer cette tâche ?",
+                "multiple": "Êtes-vous sûr de vouloir supprimer ces tâches ?",
+                "label": "Supprimer"
+            },
+            "flag": {
+                "label": "Marquer"
+            },
+            "unflag": {
+                "label": "Démarquer"
+            },
+            "responders": {
+                "label": "Responders"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "dashboard": {
+        "download": {
+            "image": "PNG",
+            "csv": "CSV",
+            "text": "Texte"
+        },
+        "title": "Mes Dashboards",
+        "filter-placeholder": "Filtrer les dashboards",
+        "create": {
+            "title": "Créer un nouveau dashboard",
+            "button": "Créer Nouveau Dashboard",
+            "confirm": "Créer Dashboard",
+            "form": {
+                "title": "Titre",
+                "title-placeholder": "Entrer un titre...",
+                "description": "Description",
+                "description-placeholder": "Entrer une description...",
+                "visibility": "Visibilité",
+                "required": "Requis",
+                "private": "Privé",
+                "shared": "Partagé"
+            }
+        },
+        "duplicate": {
+            "title": "Dupliquer un dashboard",
+            "prefix": "Copie de",
+            "confirm": "Dupliquer Dashboard"
+        },
+        "edit": {
+            "title": "Editer un dashboard",
+            "confirm": "Editer Dashboard"
+        },
+        "import": {
+            "title": "Importer un dashboard",
+            "button": "Importer Dashboard",
+            "confirm": "Importer Dashboard",
+            "dropZone": "Glisser un fichier",
+            "fileError": "Le fichier sélectionné n'est pas un dashboard valide",
+            "stepper": {
+                "file": "Import du Fichier",
+                "data": "Vérification des données"
+            }
+        },
+        "item": {
+            "edit": "Editer",
+            "duplicate": "Dupliquer",
+            "export": "Exporter",
+            "delete": "Supprimer",
+            "delete-message": "Le dashboard va être supprimé. Confirmer ?"
+        },
+        "widget": {
+            "counter": {
+                "title": "Ajouter un compteur",
+                "title-edit": "Editer le compteur"
+            },
+            "donut": {
+                "title": "Ajouter un diagramme en camembert",
+                "title-edit": "Editer le diagramme en camembert"
+            },
+            "bar": {
+                "title": "Ajouter un diagramme à bandes",
+                "title-edit": "Editer le diagramme à bandes"
+            },
+            "line": {
+                "title": "Ajouter un diagramme en lignes",
+                "title-edit": "Editer le diagramme en lignes"
+            },
+            "multiline": {
+                "title": "Ajouter un diagramme en multi-lignes",
+                "title-edit": "Editer le diagramme en multi-lignes"
+            },
+            "text": {
+                "title": "Ajouter un texte",
+                "title-edit": "Editer le texte"
+            },
+            "radar": {
+                "title": "Ajouter un diagramme en radar",
+                "title-edit": "Editer le diagramme en radar"
+            },
+            "drawer": {
+                "confirm-create": "Valider la création du diagramme",
+                "confirm-edit": "Valider l'édition du diagramme"
+            },
+            "period": {
+                "apply": "Appliquer"
+            }
+        },
+        "drop": {
+            "row": "Déposer la ligne ici",
+            "widget": "Déposer le graph ici"
+        },
+        "form-divider": {
+            "series": "Séries",
+            "filters": "Filtres",
+            "basics": "Bases"
+        },
+        "serie": {
+            "add": "Ajouter une série",
+            "no-series": "Aucune série définie"
+        },
+        "filter": {
+            "add": "Ajouter un filtre",
+            "no-filters": "Aucun filtre défini",
+            "no-entity": "Sélectionner une entité avant de gérer les filtres"
+        },
+        "settings": {
+            "refresh": "Rafraîchissement",
+            "period": "Période"
+        }
+    }
+}

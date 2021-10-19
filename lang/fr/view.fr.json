@@ -1,0 +1,9 @@
+{
+    "view": {
+        "add": "Ajouter une vue",
+        "delete": "Êtes-vous sûr de vouloir supprimer cette vue ?",
+        "title-new": "Création d'une nouvelle vue",
+        "required-name": "Veuillez entrer un nom valide !",
+        "drawer-title": "Gérer les vues"
+    }
+}

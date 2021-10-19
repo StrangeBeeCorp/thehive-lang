@@ -1,0 +1,19 @@
+{
+    "page": {
+        "create": {
+            "drawer": {
+                "title": "Ajouter une page à la base de connaissances",
+                "label": "Ajouter une page"
+            },
+            "form": {
+                "title": "Titre",
+                "category": "Catégorie"
+            }
+        },
+        "view": {
+            "title": "Base de connaissances",
+            "delete": "Êtes-vous sûr de vouloir supprimer cette page ?",
+            "search": "Filtrer sur le titre ou le contenu..."
+        }
+    }
+}

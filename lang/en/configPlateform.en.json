@@ -1,0 +1,120 @@
+{
+    "configPlateform": {
+        "column": {
+            "description": "Description",
+            "nameServer": "Server name",
+            "action": "Action"
+        },
+        "section": {
+            "principal": "General",
+            "servers": "Servers",
+            "proxySetting": "Proxy settings",
+            "advancedSetting": "Advanced settings",
+            "filter": "Filter settings"
+        },
+        "action": {
+            "confirmDelete": "Are you sure you want to delete this server?",
+            "confirmeEdit": "Update",
+            "confirmeAdd": "Add"
+        },
+        "drawer": {
+            "titleEdit": "Set up the server \"{name}\"",
+            "titleAdd": "Set up the new server"
+        },
+        "placeholder": {
+            "duration": "2 minutes"
+        },
+        "field": {
+            "interval": "Interval",
+            "api-key": "API Key",
+            "nameServer": "Server name",
+            "urlServer": "Server url",
+            "tags": "Tags",
+            "purpose": "Purpose",
+            "importOnly": "Import only",
+            "exportOnly": "Export only",
+            "ImportAndExport": "Import and export",
+            "max-attributes": "Maximum number of attributes",
+            "max-age": "Maximum age",
+            "whitelisTags": "List of allowed tags",
+            "exclusionTags": "Prohibited tags list",
+            "whitelistOrganisations": "Included organisations",
+            "exclusionOrganisations": "Excluded organisations",
+            "includedTheHiveOrganisations": "Included theHive organisations",
+            "excludedTheHiveOrganisations": "Excluded theHive organisations",
+            "maxRetryOnError": "Max retries on error",
+            "refreshDelay": "Refresh Delay",
+            "statusCheckInterval": "Frequency of status checks"
+        },
+        "required": {
+            "general": "This field is required"
+        },
+        "general": {
+            "advanced": "Advanced setting",
+            "setting": "configuration",
+            "enable": "Enabled",
+            "disable": "Disabled",
+            "success": "Configuration has been successfully saved"
+        },
+        "local": {
+            "enable": "Enable local",
+            "passwordPolicyenabled": "Enabled password policy",
+            "minLength": "Minimum length'",
+            "minLowerCase": "Minimum number of lower case caracters'",
+            "minUpperCase": "Minimum number of upper case caracters'",
+            "minDigit": "Minimum number of digit'",
+            "minSpecial": "Minimum number of special caracters'",
+            "cannotContainUsername": "ban username'"
+        },
+        "authentication": {
+            "session": "Session",
+            "providers": "Providers",
+            "timeout": "Maximum time of user inactivity before the session closed",
+            "warning": "Time before the expiration theHive displays a warning message",
+            "key": { "enabled": "API Key usage" },
+            "basic": { "enabled": "Basic Authentication", "realm": "Realm" },
+            "header": { "enabled": "Authenticate using HTTP header", "userHeader": "HTTP header name" },
+            "multifactor": { "enabled": "Multifactor authentication" }
+        },
+        "directory": {
+            "enable": "Enable directory"
+        },
+        "ad": {
+            "hosts": "The addresses of the domain controllers",
+            "winDomain": "The Windows domain name",
+            "dnsDomain": "The Windows domain name",
+            "useSSL": "Use SSL"
+        },
+        "ldap": {
+            "hosts": "Servers hostname or IP adress",
+            "useSSL": "auth-Use SSL",
+            "bindDN": "DN of the service account",
+            "bindPW": "Bind password",
+            "baseDN": "Users Base DN",
+            "filter": "Filter used to search users"
+        },
+        "oauth": {
+            "enable": "Enable Oauth2",
+            "clientId": "Client ID",
+            "clientSecret": "Client secret",
+            "redirectUri": "The url of TheHive page",
+            "grantType": "Type of the grant",
+            "authorizationUrl": "The url of server",
+            "tokenUrl": "The token url of server",
+            "userUrl": "The url to get user information in server",
+            "scope": "List of scope",
+            "userIdField": "The field that contains the id of the user in user info",
+            "organisationField": "The field that contains the organisation",
+            "defaultOrganisation": "The default organisation used to login",
+            "authorizationHeader": "Prefix of the authorization header"
+        },
+        "message": {
+            "misp": {
+                "success": "Misp configuration has been successfully saved"
+            },
+            "cortex": {
+                "success": "Cortex configuration has been successfully saved"
+            }
+        }
+    }
+}

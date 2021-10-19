@@ -1,0 +1,7 @@
+{
+    "branding": {
+        "panel": { "title": "Gestion de l'image de marque sur la plateforme" },
+        "edited": { "success": "Marque éditée avec succès" },
+        "deleted": { "success": "\"{kind}\" supprimé avec succès" }
+    }
+}

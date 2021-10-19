@@ -1,0 +1,27 @@
+{
+    "stream": {
+        "header": {
+            "delete": "Deleted by",
+            "update": "Updated by",
+            "creation": "Created by"
+        },
+        "terminated": "terminated",
+        "card": {
+            "comment": {
+                "create": "Comment added",
+                "update": "Comment updated",
+                "delete": "Comment deleted"
+            },
+            "page": {
+                "create": "Page added",
+                "update": "Page updated",
+                "delete": "Page deleted"
+            },
+            "procedure": {
+                "create": "Procedure added",
+                "update": "Procedure updated",
+                "delete": "Procedure deleted"
+            }
+        }
+    }
+}

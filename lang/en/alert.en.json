@@ -1,0 +1,156 @@
+{
+    "alert": {
+        "preview": "Alert preview",
+        "change-status": {
+            "form": {
+                "status": {
+                    "placeholder": "Choose a status...",
+                    "label": "Status",
+                    "required": "Please choose a status"
+                },
+                "summary": {
+                    "placeholder": "Enter a summary...",
+                    "label": "Summary"
+                }
+            },
+            "drawer": {
+                "title": "Change the alert status",
+                "submit": "Confirm alert status change"
+            }
+        },
+        "none": "No alerts have been found.",
+        "similar-cases": {
+            "none": "No similar cases have been found.",
+            "table": {
+                "title": {
+                    "label": "Title",
+                    "filter": "Filter by title"
+                },
+                "created-at": "Created at",
+                "observables": {
+                    "label": "Observables",
+                    "filter": "% min."
+                },
+                "iocs": {
+                    "label": "IOCs",
+                    "filter": "% min."
+                },
+                "matches": {
+                    "label": "Matches",
+                    "filter": "Select",
+                    "select-all": "Select all",
+                    "unselect-all": "Unselect all"
+                },
+                "actions": {
+                    "label": "Action",
+                    "clear": "Clear filters",
+                    "merge": "Merge in this case"
+                }
+            }
+        },
+        "table": {
+            "header": {
+                "selected": "Alert(s) selected"
+            },
+            "columns": {
+                "severity": "Severity",
+                "read": "Read",
+                "title": "Title",
+                "details": "Details",
+                "observables": "Observables",
+                "case": "# Case",
+                "date": {
+                    "label": "Date",
+                    "imported": "Imported after"
+                },
+                "source": "Source",
+                "status": "Status",
+                "type": "Type"
+            },
+            "values": {
+                "caseCreated": "Case created"
+            }
+        },
+        "quickview": {
+            "data": {
+                "goToDetails": "Go to details"
+            }
+        },
+        "layout": {
+            "nav-bar": {
+                "observables": "Observables",
+                "responders": "Responders",
+                "procedures": "TTPs",
+                "similar-cases": "Similar Cases",
+                "similar-alerts": "Similar Alerts",
+                "comments": "Comments"
+            }
+        },
+
+        "actions": {
+            "create-case-from-alert": {
+                "label": "Create case from alert"
+            },
+            "follow": {
+                "label": "Track new updates"
+            },
+            "unfollow": {
+                "label": "Ignore new updates"
+            },
+            "markAsRead": {
+                "label": "Mark as read"
+            },
+            "markAsUnread": {
+                "label": "Mark as unread"
+            },
+            "create-case-several": {
+                "label": "New case from selection"
+            },
+            "merge-alerts": {
+                "label": "Merge selection into case"
+            },
+            "change-status": {
+                "label": "Change status"
+            },
+            "delete": {
+                "confirm": "Are you sure you want to delete this alert?",
+                "label": "Delete"
+            },
+            "responders": {
+                "label": "Responders"
+            }
+        },
+        "merge": {
+            "title": "Merge alert(s) into case",
+            "form": {
+                "radio": {
+                    "title": "By title",
+                    "number": "By case number"
+                },
+                "placeholder": {
+                    "title": "Enter the case title",
+                    "number": "Enter the case number"
+                }
+            },
+            "submit": "Merge"
+        },
+        "severity": "Severity",
+        "description": "Description",
+        "date": "Date",
+        "observables": "Observables",
+        "similarCases": "Similar cases",
+        "similarCasesShort": "Cases",
+        "source": "Source",
+        "type": "Type",
+        "statut": "Statut",
+        "id": "ID",
+        "status-summary": "Status summary",
+        "status": "Status",
+        "reference": "Reference",
+        "stats": {
+            "status": "Alerts by status",
+            "type": "Top 5 types",
+            "tags": "Top 5 tags"
+        }
+    }
+}

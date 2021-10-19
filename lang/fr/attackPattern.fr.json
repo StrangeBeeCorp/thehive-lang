@@ -1,0 +1,44 @@
+{
+    "attackPattern": {
+        "none": "Aucun pattern d'attaque n'a été trouvé.",
+        "list": {
+            "columns": {
+                "patternId": "ID",
+                "name": "Nom",
+                "parent-patternId": "Sous-technique de",
+                "tactics": "Tactique",
+                "description": "Description"
+            }
+        },
+        "import": {
+            "title": "Importer des modèles MITRE ATT&CK",
+            "label": "Importer des modèles MITRE ATT&CK",
+            "footer": "Importer",
+            "header": {
+                "title": "Télécharger des modèles MITRE ATT&CK officielles",
+                "download": "Vous pouvez télécharger les modèles MITRE ATT&CK officielles",
+                "link": "ici"
+            },
+            "upload": {
+                "title": "Modèles MITRE ATT&CK",
+                "content": "Glisser un fichier ou cliquer"
+            }
+        },
+        "preview": {
+            "name": "Nom de la sous-technique",
+            "nameParent": "Sous-Technique de",
+            "url": "Url",
+            "dataSources": "Sources de données",
+            "defenseBypassed": "Défense contournée par",
+            "permissionsRequired": "Permissions requises",
+            "systemRequirements": "Configuration système requise",
+            "remoteSupport": "Assistance à distance",
+            "capecId": "ID Capec",
+            "capecUrl": "URL Capec",
+            "description": "Description",
+            "children": "Enfants",
+            "patternId": "Id",
+            "tactics": "Tactiques"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "catalog_pattern": {
+        "none": "Aucun catalogue n'a été trouvé.",
+        "list": {
+            "header": {
+                "selected": "Catalgue(s) sélectionnée(s)",
+                "add-organisation": "Ajouter un catalogue"
+            },
+            "table": {
+                "columns": {
+                    "name": "Nom",
+                    "created-by": "Créée par",
+                    "created-at": "Date de création"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajouter une catalogue"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Entrez un nom...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom valide !"
+                },
+                "description": {
+                    "placeholder": "Entrez une description...",
+                    "label": "Description",
+                    "required": "Veuillez entrer une description valide !"
+                },
+                "submit": "Confirmer la création du catalogue"
+            }
+        },
+        "drawer": {
+            "details": "Voir le catalogue"
+        }
+    }
+}

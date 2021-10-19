@@ -1,0 +1,73 @@
+{
+    "profile": {
+        "none": "Aucun profil n'a été trouvé.",
+        "permissions": {
+            "empty": "Aucune permission",
+
+            "manageUser": "Gère les utilisateurs",
+            "manageCaseTemplate": "Gère les modèles de case",
+            "manageOrganisation": "Gère les organisations",
+            "manageCustomField": "Gère les champs personnalisés",
+            "manageConfig": "Gère la configuration",
+            "manageTag": "Gère les tags",
+            "manageProfile": "Gère les profils",
+            "manageAnalyzerTemplate": "Gère les templates d'analyseur",
+            "manageObservableTemplate": "Gère les templates d'observable",
+            "managePattern": "Gère les patterns",
+            "manageTaxonomy": "Gère les taxonomies",
+            "managePlatform": "Gère la plateforme",
+
+            "manageAlert": "Gère les alertes",
+            "manageCase": "Gère les cases",
+            "manageShare": "Gère les partages",
+            "manageObservable": "Gère les observables",
+            "manageTask": "Gère les tâches",
+            "manageAction": "Gère les actions",
+            "manageAnalyse": "Gère les analyses",
+            "managePage": "Gère les pages",
+            "manageProcedure": "Gère les procédures"
+        },
+        "list": {
+            "header": {
+                "selected": "Profil(s) sélectionné(s)",
+                "add-profile": "Ajouter un Profil"
+            },
+            "table": {
+                "columns": {
+                    "name": "Nom",
+                    "permissions": "Permissions"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajouter un Profil"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Entrez le nom du profil...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom !"
+                },
+                "is-admin": {
+                    "label": "Type de profil",
+                    "admin": "Administration",
+                    "org": "Organisation"
+                },
+                "permissions": {
+                    "label": "Permissions"
+                },
+                "submit": "Confirmer la création du profil"
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": "Éditer le profil"
+            },
+            "form": {
+                "submit": "Confirmer l'édition du profil"
+            }
+        },
+        "delete": "Êtes-vous sûr de vouloir supprimer ce profil ?"
+    }
+}

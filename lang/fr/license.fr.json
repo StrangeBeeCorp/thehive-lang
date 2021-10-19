@@ -1,0 +1,29 @@
+{
+    "license": {
+        "reminder": {
+            "title": "Attention: votre licence expire bientôt !",
+            "description": "Votre licence va expirer"
+        },
+        "details": {
+            "title": "Gestion de la licence",
+            "fallback": "Il y a un problème avec votre licence. Jusqu'à la résolution de ce problème, vous aurez accès à ce plan:",
+            "update": "Mettre à jour la licence",
+            "plan": "Plan",
+            "expiration": "Date d'expiration",
+            "user": "Utilisateur"
+        },
+        "set": {
+            "drawer": {
+                "title": "Enregistrer la licence"
+            },
+            "form": {
+                "license": {
+                    "label": "Licence",
+                    "required": "Veuillez entrer une licence!",
+                    "placeholder": "Entrez une licence..."
+                },
+                "submit": "Confirmer la licence"
+            }
+        }
+    }
+}

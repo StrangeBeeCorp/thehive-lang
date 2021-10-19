@@ -1,0 +1,56 @@
+{
+    "taxonomy": {
+        "none": "No taxonomies have been found.",
+        "list": {
+            "columns": {
+                "namespace": "Namespace",
+                "description": "Description",
+                "version": "Version",
+                "tags": "#Tags"
+            },
+            "actions": {
+                "activate": {
+                    "label": "Activate",
+                    "success": "Taxonomy enabled!"
+                },
+                "deactivate": {
+                    "label": "Deactivate",
+                    "success": "Taxonomy disabled!"
+                },
+                "delete": {
+                    "label": "Delete",
+                    "success": "Taxonomy deleted!"
+                }
+            }
+        },
+        "import": {
+            "title": "Import taxonomies archive",
+            "label": "Import taxonomies",
+            "footer": "Import",
+            "header": {
+                "title": "Download the official MISP taxonomies archive",
+                "download": "You can download the latest archive of the official MISP Taxonomies",
+                "link": "from here"
+            },
+            "upload": {
+                "title": "Taxonomies archive",
+                "subtitle": "The taxonomies archive must be a valid ZIP file containing at least one file names machinetag.json",
+                "content": "Drop file or click"
+            }
+        },
+        "preview": {
+            "title": "taxonomy",
+            "columns": {
+                "tag": "Tag",
+                "predicate": "Predicate",
+                "value": "Value",
+                "color": "Color"
+            },
+            "header": {
+                "namespace": "Namespace",
+                "version": "Version",
+                "description": "Description"
+            }
+        }
+    }
+}

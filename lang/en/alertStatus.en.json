@@ -1,0 +1,22 @@
+{
+    "alert-status": {
+        "create": {
+            "label": "Add an alert status",
+            "drawer": {
+                "title": "Add an alert status"
+            },
+            "form": {
+                "value": {
+                    "label": "Value",
+                    "required": "Please enter a value!",
+                    "placeholder": "Enter a value..."
+                },
+                "submit": "Confirm alert status creation"
+            }
+        },
+        "list": {
+            "value": "Value",
+            "delete": "Are you sure you want to delete this status?"
+        }
+    }
+}

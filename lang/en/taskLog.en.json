@@ -1,0 +1,22 @@
+{
+    "task-log": {
+        "none": "No task logs have been found.",
+        "create": {
+            "title": "Create a Task Log",
+            "button": "Confirm task log creation",
+            "description": "Description",
+            "attachment": "Attachment",
+            "required": "Required",
+            "placeholder": "Type the log message",
+            "dragger": "Drag'n'drop file"
+        },
+        "edit": {
+            "title": "Edit a Task Log",
+            "button": "Confirm task log edition"
+        },
+        "responders": {
+            "show": "Show responder reports",
+            "hide": "Hide responder reports"
+        }
+    }
+}

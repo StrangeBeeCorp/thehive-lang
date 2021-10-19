@@ -1,0 +1,47 @@
+{
+    "search": {
+        "scope": {
+            "title": "Search Scope",
+            "case": {
+                "label": "Cases"
+            },
+            "task": {
+                "label": "Tasks"
+            },
+            "log": {
+                "label": "Task logs"
+            },
+            "observable": {
+                "label": "Observables"
+            },
+            "alert": {
+                "label": "Alerts"
+            },
+            "audit": {
+                "label": "Audit Logs"
+            },
+            "job": {
+                "label": "Jobs"
+            }
+        },
+        "filter": {
+            "title": "Search Filter",
+            "subtitle": "Please specify your search criterias, by adding your search filters",
+            "filter-number": "filter(s) applied",
+            "add": "Add new filter",
+            "clear": "Clear all",
+            "search": "Search"
+        },
+        "results": {
+            "title": "Search Results",
+            "records": "record(s) found",
+            "type": "Type",
+            "reference": "Reference",
+            "source": "Source",
+            "attributes": "Attributes",
+            "status": "Status",
+            "closed": "Closed on",
+            "resolution-status": "as"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "organisation": {
+        "none": "Aucune organisation n'a été trouvé.",
+        "preview": "Aperçu de l'organisation",
+        "layout": {
+            "actions": {},
+            "left-sider": {
+                "creation-date": "Date de création",
+                "update-date": "Mis à jour le",
+                "description": "Description"
+            },
+            "nav-bar": {
+                "users": "Utilisateurs",
+                "case-templates": "Modèles de cases",
+                "custom-tags": "Tags personnalisés",
+                "links": "Organisations liées",
+                "settings": "Configuration UI",
+                "password-manage": "Configuration Mots de passe"
+            }
+        },
+        "links": {
+            "none": "Aucun lien n'a été trouvé.",
+            "manage": "Gérer les organisations liées",
+            "drawer": {
+                "title": "Gestion des organisations liées",
+                "confirm": "Modifier les liens"
+            }
+        },
+        "list": {
+            "header": {
+                "selected": "Organisation(s) sélectionnée(s)",
+                "add-organisation": "Ajouter une Organisation"
+            },
+            "table": {
+                "columns": {
+                    "name": "Nom",
+                    "created-by": "Créée par",
+                    "created-at": "Date de création"
+                },
+                "name": {
+                    "linked-organisations": "Organisations en lien"
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": "Ajouter une Organisation"
+            },
+            "form": {
+                "name": {
+                    "placeholder": "Entrez un nom...",
+                    "label": "Nom",
+                    "required": "Veuillez entrer un nom valide !"
+                },
+                "description": {
+                    "placeholder": "Entrez une description...",
+                    "label": "Description",
+                    "required": "Veuillez entrer une description valide !"
+                },
+                "submit": "Confirmer la création de l'organisation"
+            }
+        },
+        "drawer": {
+            "details": "Voir l'organisation"
+        }
+    }
+}

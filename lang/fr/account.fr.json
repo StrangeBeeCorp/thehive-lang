@@ -1,0 +1,52 @@
+{
+    "account": {
+        "title": "Détails du compte",
+        "avatar": "Avatar",
+        "avatarErrorFormat": "Seuls les fichiers de type PNG/JPG sont autorisés !",
+        "avatarErrorSize": "La taille du fichier ne doit pas dépasser 500 ko",
+        "login": "Login",
+        "fullname": "Nom",
+        "profile": "Profil",
+        "permissions": "Permissions",
+        "password": "Nouveau mot de passe",
+        "passwordCurrent": "Mot de passe actuel",
+        "passwordConfirm": "Confirmation du mot de passe",
+        "passwordError": "Les mots de passe saisis n'est pas valide",
+        "save": "Enregistrer",
+        "reset": "Restaurer",
+        "clear": "Vider",
+        "clearConfirm": "Souhaitez vous supprimer l'image ?",
+        "success": "Les informations utilisateur ont été correctement sauvegardées",
+        "apiKey": "Clé API",
+        "panel1": "Edition des informations du compte",
+        "panel2": "Edition du mot de passe",
+        "panel3": "Gestion de la clé API",
+        "required": "Requis",
+        "branding": {
+            "panel": "Marque",
+            "form": {
+                "title": { "label": "Titre", "required": "Le titre est obligatoire" },
+                "loginLogo": "Logo de l'espace de connexion",
+                "menuLogo": "Logo du menu",
+                "favicon": "Favicon"
+            }
+        },
+        "mfa": {
+            "panel": "Gestion de MFA",
+            "warning": "Vous allez activer la Multi-Factor Authentication. Utilisez le QR Code ou le Secret pour générer un code MFA et envoyez le.",
+            "info-title": "Besoin d'une app pour se connecter en MFA ? Téléchargez l'une des suivantes:",
+            "ios": "Appareils iOS",
+            "android": "Appareils Android",
+            "windows": "Appareils Windows",
+            "secret": "Copier le secret",
+            "code": {
+                "label": "Code",
+                "placeholder": "Code MFA"
+            },
+            "disable": {
+                "warning": "Vous avez activé l'authentification MFA, voulez-vous la désactiver ?",
+                "label": "Désactiver MFA"
+            }
+        }
+    }
+}

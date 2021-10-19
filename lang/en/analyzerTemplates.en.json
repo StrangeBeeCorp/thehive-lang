@@ -1,0 +1,31 @@
+{
+    "analyzerTemplates": {
+        "none": "No analyzer templates have been found.",
+        "list": {
+            "columns": {
+                "name": "Name",
+                "template": "Templates"
+            },
+            "delete-confirm": "Delete this template?",
+            "cta": {
+                "view": "Template",
+                "default": "Default Template",
+                "save": "Save template"
+            }
+        },
+        "import": {
+            "title": "Import templates archive",
+            "label": "Import templates archive",
+            "footer": "Import",
+            "header": {
+                "title": "Download the official templates archive",
+                "download": "You can download the latest archive of the official analyzer templates",
+                "link": "from here"
+            },
+            "upload": {
+                "title": "Templates archive",
+                "content": "Drop file or click"
+            }
+        }
+    }
+}

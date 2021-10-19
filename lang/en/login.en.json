@@ -1,0 +1,42 @@
+{
+    "login": {
+        "title": "Hello",
+        "subtitle": "Sign in to start your session",
+        "form": {
+            "login": {
+                "placeholder": "Login",
+                "required": "Please enter a valid login!"
+            },
+            "password": {
+                "placeholder": "Password",
+                "required": "Please input your password!"
+            },
+            "confirm-password": {
+                "placeholder": "Confirm password",
+                "required": "Please enter a valid password!",
+                "same": "The two passwords you typed do not match!"
+            },
+            "code": {
+                "placeholder": "MFA Code",
+                "required": "Please input your MFA Code!"
+            },
+            "actions": {
+                "signin": "Let me in",
+                "forgot": "I forgot my password",
+                "remember": "Remember me"
+            }
+        },
+        "sso": "Sign in with SSO",
+        "change": {
+            "title": "Set a new password",
+            "reset": "Your password has been reset !",
+            "enter": "Please enter a new password so you can login in TheHive !"
+        },
+        "reset": {
+            "title": "Reset your password",
+            "forgot": "If you forgot your password or if you want to set a new one, please enter your mail.",
+            "receive": "You will receive a mail with a link to set a new password !"
+        },
+        "set-password": "Set password"
+    }
+}

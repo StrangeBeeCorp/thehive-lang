@@ -1,0 +1,22 @@
+{
+    "task-log": {
+        "none": "Aucun log de tâches n'a été trouvé.",
+        "create": {
+            "title": "Créer un log",
+            "button": "Confirmer la création du log",
+            "description": "Description",
+            "attachment": "Pièce jointe",
+            "required": "Requis",
+            "placeholder": "Entrez le message du log",
+            "dragger": "Déposer un fichier"
+        },
+        "edit": {
+            "title": "Modifier un Log",
+            "button": "Confirmer la modification du log"
+        },
+        "responders": {
+            "show": "Afficher les rapports de responders",
+            "hide": "Masquer les rapports de responders"
+        }
+    }
+}

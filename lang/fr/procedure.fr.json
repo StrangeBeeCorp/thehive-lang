@@ -1,0 +1,58 @@
+{
+    "procedure": {
+        "none": "Aucun TTP n'a été trouvé.",
+        "details": {
+            "tactic": "Tactique",
+            "created-by": "Créé par",
+            "occur-date": "Date d'occurrence",
+            "created-at": "Créé le",
+            "updated-at": "Mis à jour le",
+            "description": "Procédure",
+            "technique": "Technique"
+        },
+        "list": {
+            "tactic": "Tactique",
+            "technique": "Technique",
+            "by": "Par",
+            "dates": "Dates",
+            "actions": {
+                "delete": {
+                    "confirm": "Êtes-vous sûr de vouloir supprimer cette procédure ?"
+                }
+            }
+        },
+        "notification": {
+            "create": "La procédure a bien été créée !",
+            "edit": "La procédure a bien été éditée !",
+            "delete": "La procédure a bien été supprimée !"
+        },
+        "create": {
+            "label": "Ajouter un TTP",
+            "submit": "Créer le TTP",
+            "tactic": {
+                "label": "Tactique",
+                "required": "Veuillez choisir une tactique !",
+                "placeholder": "Choisissez une tactique..."
+            },
+            "catalog": {
+                "label": "Catalogue",
+                "required": "Veuillez choisir un catalogue !",
+                "placeholder": "Choisissez une catalogue..."
+            },
+            "occur": {
+                "label": "Date d'occurence",
+                "required": "Veuillez choisir une date d'occurence !"
+            },
+            "technique": {
+                "label": "Technique",
+                "filter-placeholder": "Filtrer les patterns d'attaque...",
+                "required": "Veuillez choisir une technique !"
+            },
+            "procedure": {
+                "label": "Procédure",
+                "placeholder": "Entrez une procédure...",
+                "add": "Ajouter"
+            }
+        }
+    }
+}
