@@ -1,0 +1,39 @@
+{
+    "catalog_pattern": {
+        "none": "",
+        "list": {
+            "header": {
+                "selected": "",
+                "add-organisation": ""
+            },
+            "table": {
+                "columns": {
+                    "name": "",
+                    "created-by": "",
+                    "created-at": ""
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "description": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "submit": ""
+            }
+        },
+        "drawer": {
+            "details": ""
+        }
+    }
+}
