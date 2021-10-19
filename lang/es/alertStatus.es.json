@@ -1,0 +1,22 @@
+{
+    "alert-status": {
+        "create": {
+            "label": "",
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "value": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "submit": ""
+            }
+        },
+        "list": {
+            "value": "",
+            "delete": ""
+        }
+    }
+}
