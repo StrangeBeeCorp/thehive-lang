@@ -1,0 +1,48 @@
+{
+    "mainLayout": {
+        "userMenu": {
+            "cases": "",
+            "dashboards": "",
+            "tasks": "",
+            "waitingTasks": "",
+            "alerts": "",
+            "search": "",
+            "configuration": "",
+            "logout": ""
+        },
+        "adminMenu": {
+            "organisations": "",
+            "global-users": "",
+            "profiles": "",
+            "customfields": "",
+            "attackPatterns": "",
+            "observabletypes": "",
+            "analyzerTemplates": "",
+            "taxonomies": "",
+            "platform": "",
+            "alert-status": "",
+            "license": "",
+            "branding": "",
+            "status": "",
+            "cortex": "",
+            "misp": "",
+            "authentication": "",
+            "mailer": ""
+        },
+        "liveFeed": {
+            "title": ""
+        },
+        "organisationSwitcher": {
+            "title": "",
+            "back": ""
+        },
+        "settings": {
+            "account": "",
+            "about": ""
+        },
+        "header": {
+            "search": "",
+            "back": ""
+        }
+    }
+}
