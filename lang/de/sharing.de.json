@@ -1,0 +1,58 @@
+{
+    "sharing": {
+        "title": "",
+        "add-share": "",
+        "no-shares": "",
+        "table": {
+            "organisation": "",
+            "profile": "",
+            "shared-at": "",
+            "action": {
+                "delete": ""
+            }
+        },
+        "add": "",
+        "owner": "",
+        "delete": {
+            "confirm": {
+                "case": "",
+                "observable": "",
+                "task": ""
+            },
+            "label": ""
+        },
+        "create": {
+            "title": {
+                "case": "",
+                "observable": "",
+                "task": ""
+            },
+            "button": {
+                "case": "",
+                "observable": "",
+                "task": ""
+            }
+        },
+        "form": {
+            "required": "",
+            "organisation": {
+                "label": "",
+                "placeholder": ""
+            },
+            "profile": {
+                "label": "",
+                "placeholder": ""
+            },
+            "value": {
+                "all": "",
+                "none": ""
+            },
+            "tasks": "",
+            "observables": ""
+        },
+        "drawer": {
+            "list": "",
+            "create": ""
+        }
+    }
+}
