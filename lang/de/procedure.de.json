@@ -1,0 +1,58 @@
+{
+    "procedure": {
+        "none": "",
+        "details": {
+            "tactic": "",
+            "created-by": "",
+            "occur-date": "",
+            "created-at": "",
+            "updated-at": "",
+            "description": "",
+            "technique": ""
+        },
+        "list": {
+            "tactic": "",
+            "technique": "",
+            "by": "",
+            "dates": "",
+            "actions": {
+                "delete": {
+                    "confirm": ""
+                }
+            }
+        },
+        "notification": {
+            "create": "",
+            "edit": "",
+            "delete": ""
+        },
+        "create": {
+            "label": "",
+            "submit": "",
+            "tactic": {
+                "label": "",
+                "required": "",
+                "placeholder": ""
+            },
+            "catalog": {
+                "label": "",
+                "required": "",
+                "placeholder": ""
+            },
+            "occur": {
+                "label": "",
+                "required": ""
+            },
+            "technique": {
+                "label": "",
+                "filter-placeholder": "",
+                "required": ""
+            },
+            "procedure": {
+                "label": "",
+                "placeholder": "",
+                "add": ""
+            }
+        }
+    }
+}
