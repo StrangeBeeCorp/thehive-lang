@@ -1,0 +1,105 @@
+{
+    "customField": {
+        "none": "",
+        "none-group": "",
+        "title": "",
+        "void": "",
+        "placeholder": "",
+        "addTitle": "",
+        "fieldPlaceholder": "",
+        "list": {
+            "header": {
+                "selected": "",
+                "add-custom-field": ""
+            },
+            "table": {
+                "columns": {
+                    "details": "",
+                    "type": "",
+                    "options": "",
+                    "group": "",
+                    "action": ""
+                },
+                "options": {
+                    "empty": ""
+                },
+                "selector": {
+                    "mandatory": ""
+                }
+            },
+            "delete-confirm": ""
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "technical-name": {
+                    "placeholder": "",
+                    "label": "",
+                    "help": ""
+                },
+                "display-name": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "description": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "type": {
+                    "label": "",
+                    "placeholder": "",
+                    "required": ""
+                },
+                "options": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "mandatory": {
+                    "label": "",
+                    "help": ""
+                },
+                "submit": ""
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "submit": ""
+            }
+        },
+        "value": {
+            "create": {
+                "drawer": {
+                    "title": ""
+                },
+                "form": {
+                    "submit": ""
+                }
+            },
+            "edit": {
+                "drawer": {
+                    "title": ""
+                },
+                "form": {
+                    "submit": ""
+                }
+            }
+        },
+        "use": {
+            "placeholder": {
+                "select": "",
+                "input": ""
+            }
+        }
+    }
+}
