@@ -1,0 +1,44 @@
+{
+    "attackPattern": {
+        "none": "",
+        "list": {
+            "columns": {
+                "patternId": "",
+                "name": "",
+                "parent-patternId": "",
+                "tactics": "",
+                "description": ""
+            }
+        },
+        "import": {
+            "title": "",
+            "label": "",
+            "footer": "",
+            "header": {
+                "title": "",
+                "download": "",
+                "link": ""
+            },
+            "upload": {
+                "title": "",
+                "content": ""
+            }
+        },
+        "preview": {
+            "name": "",
+            "nameParent": "",
+            "url": "",
+            "dataSources": "",
+            "defenseBypassed": "",
+            "permissionsRequired": "",
+            "systemRequirements": "",
+            "remoteSupport": "",
+            "capecId": "",
+            "capecUrl": "",
+            "description": "",
+            "children": "",
+            "patternId": "",
+            "tactics": ""
+        }
+    }
+}
