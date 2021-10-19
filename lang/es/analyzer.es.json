@@ -1,0 +1,35 @@
+{
+    "analyzer": {
+        "table": {
+            "title": "",
+            "column": {
+                "name": "",
+                "analysis": "",
+                "actions": "",
+                "empty": ""
+            }
+        },
+        "drawer": {
+            "choose": "",
+            "run": "",
+            "next": ""
+        },
+        "quickview": {
+            "drawer": {
+                "title": ""
+            }
+        },
+        "launch": {
+            "success": "",
+            "error": ""
+        },
+        "observable": {
+            "title": "",
+            "import": "",
+            "table": {
+                "type": "",
+                "value": ""
+            }
+        }
+    }
+}
