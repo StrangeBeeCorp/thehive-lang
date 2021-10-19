@@ -1,0 +1,42 @@
+{
+    "settings": {
+        "form": {
+            "hideEmptyCaseButton": {
+                "label": "",
+                "description": ""
+            },
+            "disallowMergeAlertInResolvedSimilarCases": {
+                "label": "",
+                "description": ""
+            },
+            "defaultAlertSimilarCaseFilter": {
+                "label": "",
+                "options": {
+                    "open-cases": "",
+                    "open-cases-last-7days": "",
+                    "open-cases-last-30days": "",
+                    "open-cases-last-3months": "",
+                    "open-cases-last-year": "",
+                    "resolved-cases": "",
+                    "none": ""
+                }
+            },
+            "defaultDateFormat": {
+                "label": "",
+                "descriptions": {
+                    "currentPreview": "",
+                    "moreSample": "",
+                    "display": "",
+                    "more": ""
+                },
+                "required": ""
+            }
+        },
+        "actions": {
+            "update": {
+                "success": "",
+                "error": ""
+            }
+        }
+    }
+}
