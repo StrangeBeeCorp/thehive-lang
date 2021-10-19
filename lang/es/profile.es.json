@@ -1,0 +1,71 @@
+{
+    "profile": {
+        "none": "",
+        "permissions": {
+            "empty": "",
+            "manageUser": "",
+            "manageCaseTemplate": "",
+            "manageOrganisation": "",
+            "manageCustomField": "",
+            "manageConfig": "",
+            "manageTag": "",
+            "manageProfile": "",
+            "manageAnalyzerTemplate": "",
+            "manageObservableTemplate": "",
+            "managePattern": "",
+            "manageTaxonomy": "",
+            "managePlatform": "",
+            "manageAlert": "",
+            "manageCase": "",
+            "manageShare": "",
+            "manageObservable": "",
+            "manageTask": "",
+            "manageAction": "",
+            "manageAnalyse": "",
+            "managePage": "",
+            "manageProcedure": ""
+        },
+        "list": {
+            "header": {
+                "selected": "",
+                "add-profile": ""
+            },
+            "table": {
+                "columns": {
+                    "name": "",
+                    "permissions": ""
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "is-admin": {
+                    "label": "",
+                    "admin": "",
+                    "org": ""
+                },
+                "permissions": {
+                    "label": ""
+                },
+                "submit": ""
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "submit": ""
+            }
+        },
+        "delete": ""
+    }
+}
