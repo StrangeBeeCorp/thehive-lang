@@ -8,8 +8,8 @@
             "form": {
                 "value": {
                     "label": "Valeur",
-                    "required": "Veuillez entrer une valeur !",
-                    "placeholder": "Entrez une valeur..."
+                    "required": "Veuillez saisir une valeur",
+                    "placeholder": "Veuillez saisir une valeur"
                 },
                 "submit": "Confirmer la création du statut d'alerte"
             }
