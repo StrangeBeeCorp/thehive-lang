@@ -1,0 +1,31 @@
+{
+    "analyzerTemplates": {
+        "none": "",
+        "list": {
+            "columns": {
+                "name": "",
+                "template": ""
+            },
+            "delete-confirm": "",
+            "cta": {
+                "view": "",
+                "default": "",
+                "save": ""
+            }
+        },
+        "import": {
+            "title": "",
+            "label": "",
+            "footer": "",
+            "header": {
+                "title": "",
+                "download": "",
+                "link": ""
+            },
+            "upload": {
+                "title": "",
+                "content": ""
+            }
+        }
+    }
+}
