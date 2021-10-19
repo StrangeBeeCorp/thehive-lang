@@ -1,0 +1,126 @@
+{
+    "user": {
+        "none": "",
+        "mfa": "",
+        "api-key": {
+            "renew": {
+                "label": "",
+                "message": ""
+            },
+            "revoke": {
+                "label": "",
+                "message": ""
+            },
+            "reveal": {
+                "label": ""
+            },
+            "create": {
+                "label": "",
+                "message": ""
+            }
+        },
+        "list": {
+            "header": {
+                "selected": "",
+                "add-user": ""
+            },
+            "table": {
+                "columns": {
+                    "details": "",
+                    "api": "",
+                    "updated-at": "",
+                    "fullname": "",
+                    "login": "",
+                    "profile": "",
+                    "dates": ""
+                }
+            }
+        },
+        "edit": {
+            "success": ""
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "organisation": {
+                    "label": ""
+                },
+                "login": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "profile": {
+                    "label": "",
+                    "placeholder": "",
+                    "required": ""
+                },
+                "permissions": {
+                    "label": ""
+                },
+                "organisations": {
+                    "required": ""
+                },
+                "submit": ""
+            }
+        },
+        "drawer": {
+            "status": {
+                "active": "",
+                "locked": ""
+            },
+            "creation-date": "",
+            "update-date": "",
+            "login": "",
+            "name": "",
+            "profile": "",
+            "permissions": "",
+            "mfa": "",
+            "password": {
+                "label": "",
+                "new-password": "",
+                "edit-password": "",
+                "empty-error": ""
+            },
+            "reset-password": {
+                "label": "",
+                "cta": "",
+                "confirm": ""
+            },
+            "lock": {
+                "label": "",
+                "lock": "",
+                "unlock": ""
+            },
+            "api-key": "",
+            "delete": {
+                "label": "",
+                "message": ""
+            }
+        },
+        "actions": {
+            "delete": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "lock": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "unlock": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            }
+        }
+    }
+}
