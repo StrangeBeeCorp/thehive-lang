@@ -1,0 +1,130 @@
+{
+    "configPlateform": {
+        "column": {
+            "description": "",
+            "nameServer": "",
+            "action": ""
+        },
+        "section": {
+            "principal": "",
+            "servers": "",
+            "proxySetting": "",
+            "advancedSetting": "",
+            "filter": ""
+        },
+        "action": {
+            "confirmDelete": "",
+            "confirmeEdit": "",
+            "confirmeAdd": ""
+        },
+        "drawer": {
+            "titleEdit": "",
+            "titleAdd": ""
+        },
+        "placeholder": {
+            "duration": ""
+        },
+        "field": {
+            "interval": "",
+            "api-key": "",
+            "nameServer": "",
+            "urlServer": "",
+            "tags": "",
+            "purpose": "",
+            "importOnly": "",
+            "exportOnly": "",
+            "ImportAndExport": "",
+            "max-attributes": "",
+            "max-age": "",
+            "whitelisTags": "",
+            "exclusionTags": "",
+            "whitelistOrganisations": "",
+            "exclusionOrganisations": "",
+            "includedTheHiveOrganisations": "",
+            "excludedTheHiveOrganisations": "",
+            "maxRetryOnError": "",
+            "refreshDelay": "",
+            "statusCheckInterval": ""
+        },
+        "required": {
+            "general": ""
+        },
+        "general": {
+            "advanced": "",
+            "setting": "",
+            "enable": "",
+            "disable": "",
+            "success": ""
+        },
+        "local": {
+            "enable": "",
+            "passwordPolicyenabled": "",
+            "minLength": "",
+            "minLowerCase": "",
+            "minUpperCase": "",
+            "minDigit": "",
+            "minSpecial": "",
+            "cannotContainUsername": ""
+        },
+        "authentication": {
+            "session": "",
+            "providers": "",
+            "timeout": "",
+            "warning": "",
+            "key": {
+                "enabled": ""
+            },
+            "basic": {
+                "enabled": "",
+                "realm": ""
+            },
+            "header": {
+                "enabled": "",
+                "userHeader": ""
+            },
+            "multifactor": {
+                "enabled": ""
+            }
+        },
+        "directory": {
+            "enable": ""
+        },
+        "ad": {
+            "hosts": "",
+            "winDomain": "",
+            "dnsDomain": "",
+            "useSSL": ""
+        },
+        "ldap": {
+            "hosts": "",
+            "useSSL": "",
+            "bindDN": "",
+            "bindPW": "",
+            "baseDN": "",
+            "filter": ""
+        },
+        "oauth": {
+            "enable": "",
+            "clientId": "",
+            "clientSecret": "",
+            "redirectUri": "",
+            "grantType": "",
+            "authorizationUrl": "",
+            "tokenUrl": "",
+            "userUrl": "",
+            "scope": "",
+            "userIdField": "",
+            "organisationField": "",
+            "defaultOrganisation": "",
+            "authorizationHeader": ""
+        },
+        "message": {
+            "misp": {
+                "success": ""
+            },
+            "cortex": {
+                "success": ""
+            }
+        }
+    }
+}
