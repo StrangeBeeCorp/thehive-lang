@@ -1,0 +1,29 @@
+{
+    "license": {
+        "reminder": {
+            "title": "",
+            "description": ""
+        },
+        "details": {
+            "title": "",
+            "fallback": "",
+            "update": "",
+            "plan": "",
+            "expiration": "",
+            "user": ""
+        },
+        "set": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "license": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "submit": ""
+            }
+        }
+    }
+}
