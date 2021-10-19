@@ -1,0 +1,56 @@
+{
+    "taxonomy": {
+        "none": "",
+        "list": {
+            "columns": {
+                "namespace": "",
+                "description": "",
+                "version": "",
+                "tags": ""
+            },
+            "actions": {
+                "activate": {
+                    "label": "",
+                    "success": ""
+                },
+                "deactivate": {
+                    "label": "",
+                    "success": ""
+                },
+                "delete": {
+                    "label": "",
+                    "success": ""
+                }
+            }
+        },
+        "import": {
+            "title": "",
+            "label": "",
+            "footer": "",
+            "header": {
+                "title": "",
+                "download": "",
+                "link": ""
+            },
+            "upload": {
+                "title": "",
+                "subtitle": "",
+                "content": ""
+            }
+        },
+        "preview": {
+            "title": "",
+            "columns": {
+                "tag": "",
+                "predicate": "",
+                "value": "",
+                "color": ""
+            },
+            "header": {
+                "namespace": "",
+                "version": "",
+                "description": ""
+            }
+        }
+    }
+}
