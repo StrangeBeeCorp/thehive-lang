@@ -1,0 +1,44 @@
+{
+    "observable-type": {
+        "list": {
+            "header": {
+                "selected": "",
+                "add-profile": ""
+            },
+            "table": {
+                "columns": {
+                    "name": "",
+                    "action": ""
+                },
+                "selector": {
+                    "attachment": ""
+                }
+            },
+            "delete-confirm": ""
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "is-attachment": {
+                    "label": ""
+                },
+                "submit": ""
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "submit": ""
+            }
+        }
+    }
+}
