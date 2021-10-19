@@ -18,9 +18,9 @@
                 "submit": "Confirmer le changement de statut"
             }
         },
-        "none": "Aucune alerte n'a été trouvée.",
+        "none": "Aucune alerte n'a été trouvée",
         "similar-cases": {
-            "none": "Aucun case similaire n'a été trouvé.",
+            "none": "Aucun case similaire n'a été trouvé",
             "table": {
                 "title": {
                     "label": "Titre",
