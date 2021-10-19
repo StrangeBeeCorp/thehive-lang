@@ -1,0 +1,22 @@
+{
+    "attachment": {
+        "create": {
+            "title": "",
+            "label": "",
+            "required": "",
+            "placeholder": "",
+            "submit": "",
+            "password": "",
+            "field-required": ""
+        },
+        "action": {
+            "success": {
+                "add": "",
+                "delete": ""
+            }
+        },
+        "sider": {
+            "add": ""
+        }
+    }
+}
