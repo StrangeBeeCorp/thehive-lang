@@ -1,0 +1,153 @@
+{
+    "task": {
+        "none": "",
+        "preview": "",
+        "actionRequired": {
+            "tooltip": "",
+            "log": {
+                "with": "",
+                "without": ""
+            },
+            "label": "",
+            "require-caption": "",
+            "info": {
+                "description": ""
+            },
+            "done": "",
+            "mark-as-done": "",
+            "cancel-request": ""
+        },
+        "details": {
+            "close": "",
+            "pin": "",
+            "description": "",
+            "task": "",
+            "group": "",
+            "assignee": "",
+            "date": "",
+            "dateNotStarted": "",
+            "status": "",
+            "sharedWith": "",
+            "flag": ""
+        },
+        "logs": {
+            "title": "",
+            "add": "",
+            "show": "",
+            "editSuccess": "",
+            "addSuccess": "",
+            "removeSuccess": "",
+            "item": {
+                "deleteText": "",
+                "edit": "",
+                "responders": "",
+                "remove": ""
+            }
+        },
+        "quickview": {
+            "goToDetails": ""
+        },
+        "list": {
+            "empty": "",
+            "header": {
+                "selected": ""
+            },
+            "table": {
+                "columns": {
+                    "group": "",
+                    "task": "",
+                    "date": "",
+                    "assignee": "",
+                    "case": ""
+                },
+                "group": {
+                    "show-list": "",
+                    "show-group": ""
+                }
+            },
+            "sider": {
+                "add-task": "",
+                "status": "",
+                "actions": {
+                    "actions": "",
+                    "flag": "",
+                    "delete": "",
+                    "close": "",
+                    "responders": ""
+                },
+                "groups": "",
+                "sub-investigation": "",
+                "stats": ""
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "group": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "title": {
+                    "required": "",
+                    "placeholder": "",
+                    "label": ""
+                },
+                "assignee": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "description": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "due-date": {
+                    "placeholder": "",
+                    "label": ""
+                },
+                "submit": ""
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "submit": ""
+            }
+        },
+        "my-tasks": {
+            "status": ""
+        },
+        "waiting-tasks": {
+            "take": ""
+        },
+        "actions": {
+            "start": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "close": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "delete": {
+                "single": "",
+                "multiple": "",
+                "label": ""
+            },
+            "flag": {
+                "label": ""
+            },
+            "unflag": {
+                "label": ""
+            },
+            "responders": {
+                "label": ""
+            }
+        }
+    }
+}
