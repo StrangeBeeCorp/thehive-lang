@@ -1,0 +1,91 @@
+{
+    "case-template": {
+        "none": "",
+        "list": {
+            "header": {
+                "selected": "",
+                "add-case-template": "",
+                "import-case-template": ""
+            },
+            "table": {
+                "columns": {
+                    "display-name": "",
+                    "name": "",
+                    "details": "",
+                    "tasks": "",
+                    "custom-fields": "",
+                    "by": "",
+                    "actions": ""
+                }
+            }
+        },
+        "actions": {
+            "delete": {
+                "multiple": "",
+                "single": "",
+                "label": ""
+            },
+            "export": ""
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "displayName": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "titlePrefix": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "description": {
+                    "label": "",
+                    "placeholder": "",
+                    "required": ""
+                },
+                "tags": {
+                    "label": "",
+                    "placeholder": ""
+                },
+                "severity": {
+                    "label": ""
+                },
+                "tlp": {
+                    "label": ""
+                },
+                "pap": {
+                    "label": ""
+                },
+                "tasks": {
+                    "label": "",
+                    "edit": "",
+                    "remove": ""
+                },
+                "submit": ""
+            }
+        },
+        "edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "submit": ""
+            }
+        },
+        "import": {
+            "drawer": {
+                "title": ""
+            },
+            "submit": ""
+        }
+    }
+}
