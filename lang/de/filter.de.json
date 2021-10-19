@@ -1,0 +1,63 @@
+{
+    "filter": {
+        "form": {
+            "add-filter": {
+                "label": ""
+            },
+            "field": {
+                "placeholder": ""
+            },
+            "values": {
+                "placeholder": ""
+            },
+            "number": {
+                "placeholder": ""
+            }
+        },
+        "footer": {
+            "apply": "",
+            "clear": "",
+            "add": ""
+        },
+        "quick": {
+            "title": "",
+            "default": "",
+            "case": {
+                "open": "",
+                "closed": "",
+                "my-open": "",
+                "my-closed": "",
+                "owned": "",
+                "shared": ""
+            },
+            "task": {
+                "my": "",
+                "in-progress": "",
+                "waiting": "",
+                "completed": "",
+                "flagged": ""
+            },
+            "alert": {
+                "read-events": "",
+                "unread-events": "",
+                "imported-events": "",
+                "follow-events": "",
+                "ignored-events": ""
+            },
+            "related-case": {
+                "all": "",
+                "open": "",
+                "indeterminate": "",
+                "false-positive": "",
+                "true-positive": "",
+                "other": ""
+            },
+            "similar-cases": {
+                "open": "",
+                "closed": "",
+                "true-positive": "",
+                "indeterminate": ""
+            }
+        }
+    }
+}
