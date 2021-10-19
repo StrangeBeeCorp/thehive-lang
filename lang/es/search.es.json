@@ -1,0 +1,47 @@
+{
+    "search": {
+        "scope": {
+            "title": "",
+            "case": {
+                "label": ""
+            },
+            "task": {
+                "label": ""
+            },
+            "log": {
+                "label": ""
+            },
+            "observable": {
+                "label": ""
+            },
+            "alert": {
+                "label": ""
+            },
+            "audit": {
+                "label": ""
+            },
+            "job": {
+                "label": ""
+            }
+        },
+        "filter": {
+            "title": "",
+            "subtitle": "",
+            "filter-number": "",
+            "add": "",
+            "clear": "",
+            "search": ""
+        },
+        "results": {
+            "title": "",
+            "records": "",
+            "type": "",
+            "reference": "",
+            "source": "",
+            "attributes": "",
+            "status": "",
+            "closed": "",
+            "resolution-status": ""
+        }
+    }
+}
