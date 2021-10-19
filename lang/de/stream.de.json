@@ -1,0 +1,27 @@
+{
+    "stream": {
+        "header": {
+            "delete": "",
+            "update": "",
+            "creation": ""
+        },
+        "terminated": "",
+        "card": {
+            "comment": {
+                "create": "",
+                "update": "",
+                "delete": ""
+            },
+            "page": {
+                "create": "",
+                "update": "",
+                "delete": ""
+            },
+            "procedure": {
+                "create": "",
+                "update": "",
+                "delete": ""
+            }
+        }
+    }
+}
