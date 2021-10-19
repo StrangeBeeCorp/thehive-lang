@@ -1,0 +1,42 @@
+{
+    "login": {
+        "title": "",
+        "subtitle": "",
+        "form": {
+            "login": {
+                "placeholder": "",
+                "required": ""
+            },
+            "password": {
+                "placeholder": "",
+                "required": ""
+            },
+            "confirm-password": {
+                "placeholder": "",
+                "required": "",
+                "same": ""
+            },
+            "code": {
+                "placeholder": "",
+                "required": ""
+            },
+            "actions": {
+                "signin": "",
+                "forgot": "",
+                "remember": ""
+            }
+        },
+        "sso": "",
+        "change": {
+            "title": "",
+            "reset": "",
+            "enter": ""
+        },
+        "reset": {
+            "title": "",
+            "forgot": "",
+            "receive": ""
+        },
+        "set-password": ""
+    }
+}
