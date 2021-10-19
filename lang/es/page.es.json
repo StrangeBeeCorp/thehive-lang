@@ -1,0 +1,19 @@
+{
+    "page": {
+        "create": {
+            "drawer": {
+                "title": "",
+                "label": ""
+            },
+            "form": {
+                "title": "",
+                "category": ""
+            }
+        },
+        "view": {
+            "title": "",
+            "delete": "",
+            "search": ""
+        }
+    }
+}
