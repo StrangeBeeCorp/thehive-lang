@@ -1,0 +1,22 @@
+{
+    "task-log": {
+        "none": "",
+        "create": {
+            "title": "",
+            "button": "",
+            "description": "",
+            "attachment": "",
+            "required": "",
+            "placeholder": "",
+            "dragger": ""
+        },
+        "edit": {
+            "title": "",
+            "button": ""
+        },
+        "responders": {
+            "show": "",
+            "hide": ""
+        }
+    }
+}
