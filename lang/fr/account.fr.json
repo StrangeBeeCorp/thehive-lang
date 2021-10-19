@@ -25,7 +25,10 @@
         "branding": {
             "panel": "Marque",
             "form": {
-                "title": { "label": "Titre", "required": "Le titre est obligatoire" },
+                "title": {
+                    "label": "Titre",
+                    "required": "Le titre est obligatoire"
+                },
                 "loginLogo": "Logo de l'espace de connexion",
                 "menuLogo": "Logo du menu",
                 "favicon": "Favicon"
@@ -34,7 +37,7 @@
         "mfa": {
             "panel": "Gestion de MFA",
             "warning": "Vous allez activer la Multi-Factor Authentication. Utilisez le QR Code ou le Secret pour générer un code MFA et envoyez le.",
-            "info-title": "Besoin d'une app pour se connecter en MFA ? Téléchargez l'une des suivantes:",
+            "info-title": "Besoin d'une app pour se connecter en MFA ? Téléchargez l'une des suivantes :",
             "ios": "Appareils iOS",
             "android": "Appareils Android",
             "windows": "Appareils Windows",
