@@ -1,0 +1,128 @@
+{
+    "notification": {
+        "copy": "",
+        "task": {
+            "create": "",
+            "edit": "",
+            "doesnotExist": "",
+            "sharing": {
+                "add": "",
+                "remove": ""
+            },
+            "action": {
+                "required": "",
+                "done": ""
+            }
+        },
+        "task-log": {
+            "create": "",
+            "edit": "",
+            "delete": ""
+        },
+        "observable": {
+            "create": "",
+            "edit": "",
+            "sharing": {
+                "add": "",
+                "remove": ""
+            },
+            "delete": "",
+            "doesnotExist": ""
+        },
+        "responder": {
+            "launch": ""
+        },
+        "case": {
+            "create": "",
+            "edit": "",
+            "sharing": {
+                "add": "",
+                "remove": ""
+            },
+            "delete": "",
+            "doesnotExist": "",
+            "pages": {
+                "add": "",
+                "edit": "",
+                "delete": ""
+            }
+        },
+        "organisation": {
+            "link": "",
+            "create": "",
+            "edit": "",
+            "switch": "",
+            "unauthorized": "",
+            "doesnotExist": ""
+        },
+        "user": {
+            "create": "",
+            "edit": "",
+            "delete": "",
+            "copyKey": "",
+            "reset-password-sent": "",
+            "change-password": ""
+        },
+        "profile": {
+            "create": "",
+            "edit": ""
+        },
+        "customField": {
+            "create": "",
+            "edit": "",
+            "delete": ""
+        },
+        "observable-type": {
+            "create": "",
+            "delete": ""
+        },
+        "password": {
+            "edit": "",
+            "edit-failed": ""
+        },
+        "APIKey": {
+            "create": "",
+            "revoke": ""
+        },
+        "case-template": {
+            "create": "",
+            "edit": "",
+            "import": "",
+            "delete": ""
+        },
+        "analyzer-template": {
+            "create": "",
+            "edit": "",
+            "import": {
+                "success": "",
+                "error": ""
+            },
+            "delete": ""
+        },
+        "dashboard": {
+            "create": "",
+            "delete": "",
+            "edit": ""
+        },
+        "alert": {
+            "follow": "",
+            "unfollow": "",
+            "read": "",
+            "unread": "",
+            "create-case-several": "",
+            "delete": "",
+            "doesnotExist": "",
+            "edit": ""
+        },
+        "page": {
+            "create": "",
+            "edit": "",
+            "delete": ""
+        },
+        "alert-status": {
+            "create": "",
+            "edit": "",
+            "delete": ""
+        }
+    }
+}
