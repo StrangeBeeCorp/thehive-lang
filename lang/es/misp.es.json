@@ -1,0 +1,13 @@
+{
+    "misp": {
+        "title": "",
+        "description": "",
+        "export": {
+            "cta": "",
+            "message": {
+                "success": "",
+                "error": ""
+            }
+        }
+    }
+}
