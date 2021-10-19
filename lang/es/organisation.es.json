@@ -1,0 +1,66 @@
+{
+    "organisation": {
+        "none": "",
+        "preview": "",
+        "layout": {
+            "left-sider": {
+                "creation-date": "",
+                "update-date": "",
+                "description": ""
+            },
+            "nav-bar": {
+                "users": "",
+                "case-templates": "",
+                "custom-tags": "",
+                "links": "",
+                "settings": "",
+                "password-manage": ""
+            }
+        },
+        "links": {
+            "none": "",
+            "manage": "",
+            "drawer": {
+                "title": "",
+                "confirm": ""
+            }
+        },
+        "list": {
+            "header": {
+                "selected": "",
+                "add-organisation": ""
+            },
+            "table": {
+                "columns": {
+                    "name": "",
+                    "created-by": "",
+                    "created-at": ""
+                },
+                "name": {
+                    "linked-organisations": ""
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "name": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "description": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "submit": ""
+            }
+        },
+        "drawer": {
+            "details": ""
+        }
+    }
+}
