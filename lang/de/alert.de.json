@@ -1,0 +1,155 @@
+{
+    "alert": {
+        "preview": "",
+        "change-status": {
+            "form": {
+                "status": {
+                    "placeholder": "",
+                    "label": "",
+                    "required": ""
+                },
+                "summary": {
+                    "placeholder": "",
+                    "label": ""
+                }
+            },
+            "drawer": {
+                "title": "",
+                "submit": ""
+            }
+        },
+        "none": "",
+        "similar-cases": {
+            "none": "",
+            "table": {
+                "title": {
+                    "label": "",
+                    "filter": ""
+                },
+                "created-at": "",
+                "observables": {
+                    "label": "",
+                    "filter": ""
+                },
+                "iocs": {
+                    "label": "",
+                    "filter": ""
+                },
+                "matches": {
+                    "label": "",
+                    "filter": "",
+                    "select-all": "",
+                    "unselect-all": ""
+                },
+                "actions": {
+                    "label": "",
+                    "clear": "",
+                    "merge": ""
+                }
+            }
+        },
+        "table": {
+            "header": {
+                "selected": ""
+            },
+            "columns": {
+                "severity": "",
+                "read": "",
+                "title": "",
+                "details": "",
+                "observables": "",
+                "case": "",
+                "date": {
+                    "label": "",
+                    "imported": ""
+                },
+                "source": "",
+                "status": "",
+                "type": ""
+            },
+            "values": {
+                "caseCreated": ""
+            }
+        },
+        "quickview": {
+            "data": {
+                "goToDetails": ""
+            }
+        },
+        "layout": {
+            "nav-bar": {
+                "observables": "",
+                "responders": "",
+                "procedures": "",
+                "similar-cases": "",
+                "similar-alerts": "",
+                "comments": ""
+            }
+        },
+        "actions": {
+            "create-case-from-alert": {
+                "label": ""
+            },
+            "follow": {
+                "label": ""
+            },
+            "unfollow": {
+                "label": ""
+            },
+            "markAsRead": {
+                "label": ""
+            },
+            "markAsUnread": {
+                "label": ""
+            },
+            "create-case-several": {
+                "label": ""
+            },
+            "merge-alerts": {
+                "label": ""
+            },
+            "change-status": {
+                "label": ""
+            },
+            "delete": {
+                "confirm": "",
+                "label": ""
+            },
+            "responders": {
+                "label": ""
+            }
+        },
+        "merge": {
+            "title": "",
+            "form": {
+                "radio": {
+                    "title": "",
+                    "number": ""
+                },
+                "placeholder": {
+                    "title": "",
+                    "number": ""
+                }
+            },
+            "submit": ""
+        },
+        "severity": "",
+        "description": "",
+        "date": "",
+        "observables": "",
+        "similarCases": "",
+        "similarCasesShort": "",
+        "source": "",
+        "type": "",
+        "statut": "",
+        "id": "",
+        "status-summary": "",
+        "status": "",
+        "reference": "",
+        "stats": {
+            "status": "",
+            "type": "",
+            "tags": ""
+        }
+    }
+}
