@@ -1,0 +1,340 @@
+{
+    "case": {
+        "none": "",
+        "merge": {
+            "title": "",
+            "form": {
+                "radio": {
+                    "title": "",
+                    "number": ""
+                },
+                "placeholder": {
+                    "title": "",
+                    "number": ""
+                }
+            },
+            "submit": "",
+            "success": ""
+        },
+        "search": {
+            "caseId": {
+                "placeholder": ""
+            }
+        },
+        "quickview": {
+            "header": {
+                "organisation": "",
+                "createdBy": ""
+            },
+            "relatedCases": {
+                "title": "",
+                "button": "",
+                "createdOn": "",
+                "shared": "",
+                "age": {
+                    "oldest": "",
+                    "newest": ""
+                }
+            },
+            "preview": ""
+        },
+        "data": {
+            "assignee": "",
+            "dates": "",
+            "creation-date": "",
+            "start-date": "",
+            "close-date": "",
+            "closed-status": "",
+            "description": "",
+            "severity": "",
+            "owner-org": "",
+            "shared-with": "",
+            "tasks": "",
+            "observables": "",
+            "links": "",
+            "created-by": "",
+            "resolution-status": ""
+        },
+        "pin": {
+            "task-label": "",
+            "observable-label": "",
+            "clearPins": "",
+            "task-deleted": "",
+            "observable-deleted": ""
+        },
+        "layout": {
+            "actions": {
+                "flag": "",
+                "unflag": "",
+                "sharing": "",
+                "export": "",
+                "merge": "",
+                "delete": {
+                    "label": "",
+                    "confirm": ""
+                },
+                "close": "",
+                "reopen": {
+                    "label": "",
+                    "confirm": ""
+                },
+                "responders": ""
+            },
+            "nav-bar": {
+                "description": "",
+                "tasks": "",
+                "procedures": "",
+                "observables": "",
+                "responders": "",
+                "attachments": "",
+                "related-cases": "",
+                "sharings": "",
+                "related-alerts": "",
+                "similar-alerts": "",
+                "comments": "",
+                "pages": ""
+            }
+        },
+        "actions": {
+            "edit": {
+                "label": ""
+            },
+            "flag": {
+                "label": ""
+            },
+            "unflag": {
+                "label": ""
+            },
+            "close": {
+                "label": ""
+            },
+            "reopen": {
+                "label": ""
+            },
+            "responders": {
+                "label": ""
+            },
+            "delete": {
+                "label": ""
+            }
+        },
+        "bulk-edit": {
+            "drawer": {
+                "title": ""
+            },
+            "form": {
+                "add-tags": {
+                    "label": ""
+                },
+                "remove-tags": {
+                    "label": ""
+                }
+            }
+        },
+        "export": {
+            "drawer-title": "",
+            "file": {
+                "title": "",
+                "description": "",
+                "cta": "",
+                "password": ""
+            }
+        },
+        "stats": {
+            "status": "",
+            "resolution": "",
+            "tags": ""
+        },
+        "list": {
+            "header": {
+                "selected": "",
+                "actions": {
+                    "flag": "",
+                    "tooltip": {
+                        "flag": ""
+                    }
+                }
+            },
+            "table": {
+                "columns": {
+                    "status": "",
+                    "case-number": "",
+                    "title": "",
+                    "severity": "",
+                    "details": "",
+                    "tasks": "",
+                    "observables": "",
+                    "assignee": "",
+                    "date": "",
+                    "dates": ""
+                },
+                "selector": {
+                    "created-by": ""
+                },
+                "description": {
+                    "open": "",
+                    "closed": "",
+                    "as": ""
+                },
+                "isOwner": "",
+                "shared": "",
+                "share-count": ""
+            }
+        },
+        "description": {
+            "sider": {
+                "responder-reports": {
+                    "title": "",
+                    "no-reports": "",
+                    "end-date": "",
+                    "cortex-server": "",
+                    "error": {
+                        "hide": "",
+                        "show": ""
+                    },
+                    "report": {
+                        "hide": "",
+                        "show": ""
+                    }
+                }
+            }
+        },
+        "create": {
+            "drawer": {
+                "title": {
+                    "choose": "",
+                    "scratch": "",
+                    "template": "",
+                    "import": ""
+                }
+            },
+            "steps": {
+                "choose": "",
+                "create-scratch": "",
+                "choose-template": "",
+                "create-template": "",
+                "create-import": ""
+            },
+            "choose": {
+                "type": "",
+                "scratch": "",
+                "template": "",
+                "import": ""
+            },
+            "case-template": {
+                "filter": {
+                    "placeholder": ""
+                }
+            },
+            "form": {
+                "title": {
+                    "label": "",
+                    "required": "",
+                    "placeholder": ""
+                },
+                "description": {
+                    "label": "",
+                    "placeholder": ""
+                },
+                "date": {
+                    "label": "",
+                    "required": ""
+                },
+                "tags": {
+                    "label": "",
+                    "placeholder": ""
+                },
+                "severity": {
+                    "label": ""
+                },
+                "tlp": {
+                    "label": ""
+                },
+                "pap": {
+                    "label": ""
+                },
+                "tasks": {
+                    "label": "",
+                    "edit": "",
+                    "remove": ""
+                },
+                "custom-fields": {
+                    "label": "",
+                    "edit": "",
+                    "remove": ""
+                },
+                "confirm": ""
+            }
+        },
+        "close": {
+            "form": {
+                "resolutionStatus": {
+                    "TruePositive": {
+                        "label": ""
+                    },
+                    "FalsePositive": {
+                        "label": ""
+                    },
+                    "Indeterminate": {
+                        "label": ""
+                    },
+                    "Other": {
+                        "label": ""
+                    },
+                    "label": "",
+                    "required": ""
+                },
+                "impactStatus": {
+                    "label": "",
+                    "required": ""
+                },
+                "summary": {
+                    "label": "",
+                    "placeholder": "",
+                    "required": ""
+                },
+                "value": {
+                    "required": ""
+                }
+            },
+            "button": {
+                "label": ""
+            },
+            "drawer": {
+                "title": "",
+                "table": {
+                    "title": ""
+                }
+            }
+        },
+        "attachment": {
+            "tab": {
+                "cases": "",
+                "tasks": ""
+            },
+            "table": {
+                "filename": "",
+                "type": "",
+                "size": "",
+                "date": ""
+            },
+            "none": ""
+        },
+        "delete": {
+            "title": "",
+            "footer": "",
+            "question": "",
+            "confirm": "",
+            "warning": ""
+        },
+        "similar-alerts": {
+            "none": ""
+        },
+        "related-cases": {
+            "none": ""
+        },
+        "related-alerts": {
+            "none": ""
+        }
+    }
+}
